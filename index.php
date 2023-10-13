@@ -4,7 +4,7 @@ include_once 'components/header.php';
 
 <meta name="description"
   content="Experience the wonders of Sri Lanka with The Best Tour Operators in Sri Lanka! Our knowledgeable drivers and tours will ensure you have the trip of a lifetime.">
-<meta name="thumbnail" content="assets/img/lankatourdriver.com-thumbnail-1200x627.jpg">
+<meta name="thumbnail" content="assets/img/lankatourdriver.com-thumbnail-1200x627.webp">
 <title>Best Tour Operators In Sri Lanka | Sri Lanka Private Guide | Lanka Tour Driver</title>
 
 </head>
@@ -45,7 +45,7 @@ include_once 'components/header.php';
           <div class="col-xs-3 col-md-3">
             <a
               href="https://www.tripadvisor.com/Attraction_Review-g7377537-d9851060-Reviews-Lanka_Tour_Driver-Hingurakgoda_North_Central_Province.html"><img
-                src="assets/img/lanka-tour-driver-tripadvisor-travelers-choice-2023.png"
+              loading="lazy" src="assets/img/lanka-tour-driver-tripadvisor-travelers-choice-2023.webp"
                 alt="Lanka Tour Driver Tripadvisor Traveler's Choice 2023" class="img-responsive"
                 style="margin-inline: auto;"></a>
 
@@ -54,7 +54,7 @@ include_once 'components/header.php';
           <div class="col-xs-3 col-md-3">
             <a
               href="https://www.tripadvisor.com/Attraction_Review-g7377537-d9851060-Reviews-Lanka_Tour_Driver-Hingurakgoda_North_Central_Province.html"><img
-                src="assets/img/lanka-tour-driver-tripadvisor-travelers-choice-2022.png"
+              loading="lazy" src="assets/img/lanka-tour-driver-tripadvisor-travelers-choice-2022.webp"
                 alt="Lanka Tour Driver Tripadvisor Traveler's Choice 2022" class="img-responsive"
                 style="margin-inline: auto;"></a>
 
@@ -63,7 +63,7 @@ include_once 'components/header.php';
           <div class="col-xs-3 col-md-3">
             <a
               href="https://www.tripadvisor.com/Attraction_Review-g7377537-d9851060-Reviews-Lanka_Tour_Driver-Hingurakgoda_North_Central_Province.html"><img
-                src="assets/img/lanka-tour-driver-tripadvisor-travelers-choice-2020.png"
+              loading="lazy" src="assets/img/lanka-tour-driver-tripadvisor-travelers-choice-2020.webp"
                 alt="Lanka Tour Driver Tripadvisor Traveler's Choice 2020" class="img-responsive"
                 style="margin-inline: auto;"></a>
 
@@ -72,7 +72,7 @@ include_once 'components/header.php';
           <div class="col-xs-3 col-md-3">
             <a
               href="https://www.tripadvisor.com/Attraction_Review-g7377537-d9851060-Reviews-Lanka_Tour_Driver-Hingurakgoda_North_Central_Province.html"><img
-                src="assets/img/lanka-tour-driver-tripadvisor-excellence-2019.png"
+              loading="lazy" src="assets/img/lanka-tour-driver-tripadvisor-excellence-2019.webp"
                 alt="Lanka Tour Driver Tripadvisor Excellence 2019" class="img-responsive"
                 style="margin-inline: auto;"></a>
 
@@ -102,7 +102,7 @@ include_once 'components/header.php';
         <div class="col-md-6 col-lg-4 pt-3">
           <div class=" card product-card card__multi-days">
             <a href="sri-lanka-tour-packages/sri-lanka-classic-tour-4-days-3-nights"><img class="card-img-top"
-                src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-mountain-view-sri-lanka-358x220.jpg"
+            loading="lazy"  src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-mountain-view-sri-lanka-358x220.webp"
                 alt="04 Days 03 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -125,7 +125,7 @@ include_once 'components/header.php';
           <div class=" card product-card card__multi-days">
             <a href="sri-lanka-tour-packages/wonderland-acceleration-5-days-4-nights-in-sri-lanka"><img
                 class="card-img-top"
-                src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-safari-in-sri-lanka-358x220.jpg"
+                loading="lazy"  src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-safari-in-sri-lanka-358x220.webp"
                 alt="05 Days 04 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -149,7 +149,7 @@ include_once 'components/header.php';
         <div class="col-md-6 col-lg-4 pt-3">
           <div class=" card product-card card__multi-days">
             <a href="sri-lanka-tour-packages/mesmerizing-sri-lanka-5-days-4-nights"><img class="card-img-top"
-                src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-elephants-minneriya-national-park-358x220.jpg"
+            loading="lazy" src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-elephants-minneriya-national-park-358x220.webp"
                 alt="05 Days 04 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -170,7 +170,7 @@ include_once 'components/header.php';
         <div class="col-md-6 col-lg-4 pt-3">
           <div class=" card product-card card__multi-days">
             <a href="sri-lanka-tour-packages/scenic-sri-lanka-11-days-10-nights"><img class="card-img-top"
-                src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-pidurangala-view-point-sri-lanka-358x220.jpg"
+            loading="lazy"  src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-pidurangala-view-point-sri-lanka-358x220.webp"
                 alt="11 Days 10 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -193,7 +193,7 @@ include_once 'components/header.php';
         <div class="col-md-6 col-lg-4 pt-3">
           <div class=" card product-card card__multi-days">
             <a href="sri-lanka-tour-packages/relax-and-unwind-in-sri-lanka-20-days-19-nights"><img class="card-img-top"
-                src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-sigiriya-waling-path-sri-lanka-358x220.jpg"
+            loading="lazy" src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-sigiriya-waling-path-sri-lanka-358x220.webp"
                 alt="20 Days 19 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -218,7 +218,7 @@ include_once 'components/header.php';
           <div class=" card product-card card__multi-days">
             <a href="sri-lanka-tour-packages/your-travel-wishlist-in-sri-lanka-21-days-20-nights"><img
                 class="card-img-top"
-                src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-wood-carving-in-sri-lanka-358x220.jpg"
+                loading="lazy" src="assets/img/tour-packages/tour-package-cards/lankatourdriver.com-wood-carving-in-sri-lanka-358x220.webp"
                 alt="21 Days 20 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -255,7 +255,7 @@ include_once 'components/header.php';
       <div class="row">
         <h2 class="text-center clr-pm">Greetings from Sri Lanka!</h2>
         <div class="col-md-5">
-          <img class="img-responsive" src="assets/img/team/lankatourdriver.com-harsha-bandara.jpg" alt="Harsha Bandara">
+          <img class="img-responsive" loading="lazy" src="assets/img/team/lankatourdriver.com-harsha-bandara.webp" alt="Harsha Bandara">
         </div>
         <div class="col-md-7">
           <p>Hello travelers! My name is Harsha Bandara, and I'm a well-experienced licensed tour guide from Sri
@@ -331,21 +331,21 @@ include_once 'components/header.php';
           <div class="features">
 
 
-            <img src="assets/img/icons/lankatourdriver.com-free-consultation.png" alt="Free Travel Consultation">
+            <img loading="lazy" src="assets/img/icons/lankatourdriver.com-free-consultation.png" alt="Free Travel Consultation">
             <p>100% free tour consultation in Sri Lanka</p>
 
           </div>
         </div>
         <div class="col-md-3">
           <div class="features">
-            <img src="assets/img/icons/lankatourdriver.com-cab-taxi.png" alt="Car and Taxi Services, Sri Lanka">
+            <img loading="lazy" src="assets/img/icons/lankatourdriver.com-cab-taxi.png" alt="Car and Taxi Services, Sri Lanka">
             <p>Car and taxi services with experienced driver-guide service (Offered as part of the tour package)</p>
 
           </div>
         </div>
         <div class="col-md-3">
           <div class="features">
-            <img src="assets/img/icons/lankatourdriver.com-privare-driver.png"
+            <img  loading="lazy" src="assets/img/icons/lankatourdriver.com-privare-driver.png"
               alt="Professional private driver guide services in Sri Lanka">
             <p>Professional private driver guide services in Sri Lanka</p>
 
@@ -353,7 +353,7 @@ include_once 'components/header.php';
         </div>
         <div class="col-md-3">
           <div class="features border-0">
-            <img src="assets/img/icons/lankatourdriver.com-customized-tours.png"
+            <img loading="lazy" src="assets/img/icons/lankatourdriver.com-customized-tours.png"
               alt="Personalized tour plans and itineraries in Sri Lanka">
             <p>Flexible and personalized tour plans and itineraries in Sri Lanka (Free of charge)</p>
 
@@ -404,7 +404,7 @@ include_once 'components/header.php';
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <a href="sri-lanka-private-driver"><img src="assets/img/lankatourdriver.com-drivers-homepage.jpeg"
+            <a href="sri-lanka-private-driver"><img loading="lazy" src="assets/img/lankatourdriver.com-drivers-homepage.webp"
                 alt="Sri Lanka Private Driver" class="img-responsive"></a>
           </div>
           <div class="col-md-6">
@@ -466,8 +466,9 @@ include_once 'components/header.php';
               most
               pure oceans.</p>
             <div class="yt-video-content embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" width="100%" height="440"
-                src="https://www.youtube.com/embed/sChXehSYd4k" allowfullscreen=""></iframe>
+            <iframe class="embed-responsive-item" width="100%" height="440"
+        src="https://www.youtube.com/embed/sChXehSYd4k" allowfullscreen="" loading="lazy"></iframe>
+
             </div>
             <p class="margin-top-3em">Sri Lanka is a tourism destination that even the natives enjoy. We help you get
               a

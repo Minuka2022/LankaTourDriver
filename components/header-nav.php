@@ -26,7 +26,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
-        <li><a href="https://lankatourdriver.com/sri-lanka-tour-packages">Sri Lanka Tour Packages</a></li>
+        <li><a href="https://lankatourdriver.com/sri-lanka-tour-packages/">Sri Lanka Tour Packages</a></li>
         <li><a href="https://lankatourdriver.com/plan-your-sri-lanka-tour">Plan Your Tour</a></li>
         <li><a href="https://lankatourdriver.com/best-places-to-visit-in-sri-lanka">Discover Sri Lanka</a></li>
         <li><a href="https://lankatourdriver.com/sri-lanka-airport-taxi-transfer-rates">Airport Taxi</a></li>

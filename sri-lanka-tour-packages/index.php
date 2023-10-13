@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-ella-sri-lanka-headerImage-1400x500.jpg')">
+      style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-ella-sri-lanka-headerImage-1400x500.webp')">
     </div>
     <style>
       @media (max-width: 768px) {
@@ -59,7 +59,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="short-break-in-sri-lanka-3-days-2-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-kandy-temple-of-the-tooth-relic.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-kandy-temple-of-the-tooth-relic.webp"
                 alt="03 Days 02 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -81,7 +81,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="sri-lanka-classic-tour-4-days-3-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-mountain-view-sri-lanka-358x220.jpg"
+            loading="lazy" src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-mountain-view-sri-lanka-358x220.webp"
                 alt="04 Days 03 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -105,7 +105,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="wonderland-acceleration-5-days-4-nights-in-sri-lanka"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-safari-in-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-safari-in-sri-lanka-358x220.webp"
                 alt="05 Days 04 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -129,7 +129,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="upcountry-of-the-land-of-serendip-5-days-4-nights-in-sri-lanka"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-roadside-elephant-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-roadside-elephant-sri-lanka-358x220.webp"
                 alt="05 Days 04 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -151,7 +151,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="mesmerizing-sri-lanka-5-days-4-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-elephants-minneriya-national-park-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-elephants-minneriya-national-park-358x220.webp"
                 alt="05 Days 04 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -173,7 +173,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="hello-sri-lanka-6-days-5-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-bentota-brief-garden.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-bentota-brief-garden.webp"
                 alt="06 Days 05 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -197,7 +197,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="sri-lanka-highlights-6-days-5-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-nine-arch-bridge-ella-sri-lanka-358x220.jpg"
+            loading="lazy" src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-nine-arch-bridge-ella-sri-lanka-358x220.webp"
                 alt="06 Days 05 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -221,7 +221,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="amazing-exploration-in-sri-lanka-7-days-6-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-bentota-turtle-hatchery.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-bentota-turtle-hatchery.webp"
                 alt="07 Days 06 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -242,7 +242,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="photographic-holiday-in-sri-lanka-7-days-6-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-ambuluwawa-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-ambuluwawa-sri-lanka-358x220.webp"
                 alt="07 Days 06 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -266,7 +266,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="delightful-sri-lanka-8-days-7-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-nuwara-eliya-moon-plains.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-nuwara-eliya-moon-plains.webp"
                 alt="08 Days 07 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -288,7 +288,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="fairyland-visit-8-days-7-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-unawatuna-beach-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-unawatuna-beach-sri-lanka-358x220.webp"
                 alt="08 Days 07 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -309,7 +309,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="9-day-getaway-to-sri-lanka-9-days-8-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-boat-ride-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-boat-ride-sri-lanka-358x220.webp"
                 alt="09 Days 08 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -331,7 +331,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="tea-beaches-and-sun-shine-10-days-9-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-little-adams-peak.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-little-adams-peak.webp"
                 alt="10 Days 09 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -353,7 +353,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="discover-the-beauty-of-sri-lanka-10-days-9-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-scenery-mountain-view-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-scenery-mountain-view-sri-lanka-358x220.webp"
                 alt="10 Days 09 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -377,7 +377,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="scenic-sri-lanka-11-days-10-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-pidurangala-view-point-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-pidurangala-view-point-sri-lanka-358x220.webp"
                 alt="11 Days 10 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -401,7 +401,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="incredible-tour-experience-in-sri-lanka-14-days-13-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-yala-national-park.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-tour-packages-yala-national-park.webp"
                 alt="14 Days 13 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -426,7 +426,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="magical-sri-lanka-15-days-14-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-kite-surfing-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-kite-surfing-sri-lanka-358x220.webp"
                 alt="15 Days 14 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -449,7 +449,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="relax-and-unwind-in-sri-lanka-20-days-19-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-sigiriya-waling-path-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-sigiriya-waling-path-sri-lanka-358x220.webp"
                 alt="20 Days 19 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
@@ -473,7 +473,7 @@
         <div class="col-sm-6 col-md-4 col-lg-4 pt-3">
           <div class="card product-card card__multi-days">
             <a href="your-travel-wishlist-in-sri-lanka-21-days-20-nights"><img class="card-img-top"
-                src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-wood-carving-in-sri-lanka-358x220.jpg"
+            loading="lazy"  src="../assets/img/tour-packages/tour-package-cards/lankatourdriver.com-wood-carving-in-sri-lanka-358x220.webp"
                 alt="21 Days 20 Nights Tour" style="height: 220px" /></a>
             <div class="card-body">
               <h3 class="card-title border-bottom pb-3">
