@@ -14,7 +14,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-monkeys-working-on-a-jackfurit-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-monkeys-working-on-a-jackfurit-1400x500.')">
         </div>
 
         <div class="page-heading">

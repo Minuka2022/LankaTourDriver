@@ -314,5 +314,5 @@
 <!--End of Tawk.to Script-->
 
 
-<script src="https://lankatourdriver.com/assets/js/disableClick.js"></script>
+<!-- <script src="https://lankatourdriver.com/assets/js/disableClick.js"></script> -->
 <script src="https://lankatourdriver.com/assets/js/custom.js"></script>
