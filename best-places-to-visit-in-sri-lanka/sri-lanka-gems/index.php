@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-lanka-gems-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-lanka-gems-1400x500.webp')">
     </div>
 
 
@@ -46,7 +46,7 @@
 
 
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-gems-375x331.jpg" alt="Gems - Sri Lanka"
+          loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-gems-375x331.webp" alt="Gems - Sri Lanka"
             class="itinerary-day-img" />
 
           <p>From biblical times, Sri Lanka has been renowned for its valuable and semi-precious stones. They include

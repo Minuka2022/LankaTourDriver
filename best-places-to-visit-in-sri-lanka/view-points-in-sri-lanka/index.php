@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-kandy-lake-view-sri-lanka-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-kandy-lake-view-sri-lanka-1400x500.webp')">
     </div>
     <style>
       @media (max-width: 768px) {
@@ -49,7 +49,7 @@
 
             You'll get a breathtaking vista of the city of Kandy, surrounded by mountain ranges.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-kandy-view-point-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-kandy-view-point-375x331.webp"
             alt="Hikkaduwa - Sri Lanka" class="itinerary-day-img" />
           <p>One of the best places to take pictures is this well-known vantage point on Rajapihilla Street.
             The lake and the temple housing the tooth relic are also worth photographing, so remember to do so. This
@@ -77,7 +77,7 @@
             vistas, offering a 360-degree panorama of the country's stunning mountain range.
             You would never have encountered something like this in this perennial field.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-moon-plains-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-moon-plains-375x331.webp"
             alt="Moon Plains - Sri Lanka" class="itinerary-day-img" />
           <p>The mini-world's-end lookout, from which visitors can see all around them, is the primary draw.
             Sri Lanka is home to many animal and bird species found nowhere else on Earth.
@@ -125,7 +125,7 @@
             The name alone should give you an idea of the nature of this location, as it is well-recognized as the
             immense chasm in Sri Lanka. There is no way to determine the width or depth of this chasm.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-worlds-end-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-worlds-end-375x331.webp"
             alt="World's End - Sri Lanka" class="itinerary-day-img" />
           <p>Please exercise extreme caution! This area is quite hazardous despite its gorgeous appearance.
             Follow the directions on the signage.
@@ -163,7 +163,7 @@
             degree view around the Gampola town. The narrow spiral staircase is the special captivate icon that adds a
             heavy architectural value to this tower.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-ambuluwawa-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-ambuluwawa-375x331.webp"
             alt="Ambuluwawa - Sri Lanka" class="itinerary-day-img" />
           <p>Therefore it becomes a kind of challenge to the travelers to reach to the top of the tower. By the way this
             journey is really entertaining and you'll feel so exited after reaching the top. Let's hire a tuk tuk to
@@ -194,7 +194,7 @@
               href="../trekking-hiking-mountain-climbs-in-sri-lanka">Hiking
               page</a>.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-pidurangala-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-pidurangala-375x331.webp"
             alt="Pidurangala - Sri Lanka" class="itinerary-day-img" />
           <p>Now it's about how is the view there. This would be one if your best photography tour.. after an
             adventurous hiking finally you'll reach to the top of Pidurangala rock. Say hi to Sigiriya lion's rock
@@ -226,7 +226,7 @@
             landmark in the city including temples, lakes and huge buildings. This place is a home to a big buddha
             statue in pure white color where you can collect many photographs to your travel diary.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-athugala-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-athugala-375x331.webp"
             alt="Athugala - Sri Lanka" class="itinerary-day-img" />
           <p>On the way to this precious view point we can see an amazing bio diversity with green trees & creepers. It
             adds a strange value to this silent place. You can walk by foot if you like, if not you can also travel by
@@ -260,7 +260,7 @@
             Set your camera aside and take a deep breath. This would be an unforgettable relaxing morning to all of us.
           </p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-sri-pada-375x331.jpg"
+          loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-sri-pada-375x331.webp"
             alt="Sri Pada / Adam's Peak - Sri Lanka" class="itinerary-day-img" />
           <p>now you'll see the color change of the sky from darker to lighter - not so fast, little by little very
             slowly, please don't feel disappointed in this last few minutes, this is not the end. Wait! I'm pretty
@@ -294,7 +294,7 @@
             beneath you. Make sure your camera is ready for another photography holiday. This would be a priceless
             opportunity for panoramic photography.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-piduruthalagala-375x331.jpg"
+          loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-piduruthalagala-375x331.webp"
             alt="Piduruthalagala - Sri Lanka" class="itinerary-day-img" />
           <p>This climate will make you addicted to this awesome experience. Don't worry you can use your own vehicle to
             reach to the top and there you can have enough space to park your car.

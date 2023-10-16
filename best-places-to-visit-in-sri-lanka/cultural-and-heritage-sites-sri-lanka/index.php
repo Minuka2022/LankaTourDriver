@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-maha-bodhi-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-maha-bodhi-1400x500.webp')">
     </div>
     <style>
       @media (max-width: 768px) {
@@ -74,7 +74,7 @@
               city in 993 A.D.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-abhayagiriya-anuradhapura-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-abhayagiriya-anuradhapura-375x331.webp"
               alt="Abhayagiriya, Anuradhapura - Sri Lanka" class="attraction-img_within" />
 
 
@@ -113,7 +113,7 @@
               royal family.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-royal-palace-polonnaruwa-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-royal-palace-polonnaruwa-375x331.webp"
               alt="Royal Palace, Polonnaruwa - Sri Lanka" class="attraction-img_within" />
 
             <p>
@@ -151,8 +151,8 @@
               garden are just a few reasons you should check out this complex.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-gadaladeniya-375x331.jpg"
-              alt="Gadaladeniya, Kandy - Sri Lanka" class="attraction-img_within" />
+              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-gadaladeniya-375x331.webp"
+              loading="lazy"  alt="Gadaladeniya, Kandy - Sri Lanka" class="attraction-img_within" />
 
             <p>The Pinnawela Elephant Orphanage is also conveniently located not far away. When taking a dip in the
               Mahaweli River, you may spot some orphaned elephants, once tiny calves but have since grown into massive
@@ -183,7 +183,7 @@
               flowers, elaborate hairstyles, and graceful movements.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-sigiriya-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-sigiriya-375x331.webp"
               alt="Sigiriya - Sri Lanka" class="attraction-img_within" />
 
             <p>Follow the reflective wall until you reach the lion's paws. At this point, you'll start to gain
@@ -217,7 +217,7 @@
               The walking time is roughly 20 minutes.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-dambulla-cave-temple-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-dambulla-cave-temple-375x331.webp"
               alt="Dambulla Cave Temple - Sri Lanka" class="attraction-img_within" />
 
             <p>Every inch of these caves was painted with elaborate murals throughout two millennia.
@@ -256,7 +256,7 @@
               interesting people who frequent them.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-historical-mansion-art-galle-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-historical-mansion-art-galle-375x331.webp"
               alt="Historical Mansion Galle - Sri Lanka" class="attraction-img_within" />
 
             <p>Because of its strategic location, colonial goods were often shipped from Galle back to Europe.
@@ -294,7 +294,7 @@
 
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-jaffna-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-jaffna-375x331.webp"
               alt="Jaffna Cultural Dance - Sri Lanka" class="attraction-img_within" />
 
             <p>
@@ -331,7 +331,7 @@
               Arippu Fort can be found nearby.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-doric-house-mannar-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-doric-house-mannar-375x331.webp"
               alt="Doric House, Mannar - Sri Lanka" class="attraction-img_within" />
 
             <p>It's a bridge to the Mannar peninsula, about 3 kilometers long. The Mannar Fort stands directly opposite
@@ -372,7 +372,7 @@
               the cave.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-pahiyangala-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-pahiyangala-375x331.webp"
               alt="Pahiyangala - Sri Lanka" class="attraction-img_within" />
 
             <p>Among the artefacts he uncovered in the smaller cave next door was a human skull bone, estimated to be
@@ -420,7 +420,7 @@
               A wonderful haven of peace in the heart of the bustling capital.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-independece-square-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-independece-square-375x331.webp"
               alt="Colombo Independence Square - Sri Lanka" class="attraction-img_within" />
 
             <p>Between the waterfront and the train station is the historic commercial district known as the Pettha.
@@ -455,7 +455,7 @@
               A distinct form of their native tongue, influenced by Sinhalese, has developed among them.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-indigenous-people-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-indigenous-people-375x331.webp"
               alt="Indigenous - Sri Lanka" class="attraction-img_within" />
 
             <p>
@@ -486,7 +486,7 @@
               significance go hand in hand with it.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-pottery-village-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-pottery-village-375x331.webp"
               alt="Pottery Village - Sri Lanka" class="attraction-img_within" />
 
             <p>
@@ -526,7 +526,7 @@
               field exclusively.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-laksha-village-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-laksha-village-375x331.webp"
               alt="Laksha Village - Sri Lanka" class="attraction-img_within" />
 
             <p>However, compared to ancient Sri Lanka, there are now only a tiny fraction of such individuals working in
@@ -576,7 +576,7 @@
               medicine.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-spice-gardens-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-spice-gardens-375x331.webp"
               alt="Herbs and Spices - Sri Lanka" class="attraction-img_within" />
 
             <p>It's common knowledge that western medicine can quickly reverse the effects of a disease but that the

@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-victoria-dam-sri-lanka-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-victoria-dam-sri-lanka-1400x500.webp')">
     </div>
 
 
@@ -40,7 +40,7 @@
 
 
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-dams-moragahakanda-dam-375x331.jpg"
+          loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-dams-moragahakanda-dam-375x331.webp"
             alt="Morgahakanda Dam - Sri Lanka" class="itinerary-day-img" />
           <p>The centerpiece of the Morgahakanda/Kaluganga project, Moragahakanda Dam was recently constructed and
             greatly expanded Matale district. Finally, the Great Mahaveli project is complete.

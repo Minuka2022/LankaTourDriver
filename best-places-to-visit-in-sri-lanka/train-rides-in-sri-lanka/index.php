@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-lanka-blue-train-ella-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-lanka-blue-train-ella-1400x500.webp')">
     </div>
 
     <div class="page-heading">
@@ -37,7 +37,7 @@
 
             </h3>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-train-ride-blue-train-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-train-ride-blue-train-375x331.webp"
               alt="Kandy to Ella - Blue train - Sri Lanka" class="attraction-img_within" />
             <p>The train ride from Kandy to Ella is the most beautiful in Sri Lanka,
 
@@ -69,7 +69,7 @@
 
             </h3>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-train-ride-coastal-line-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-train-ride-coastal-line-375x331.webp"
               alt="Galle to Colombo - Southern Coastal Railway Line - Sri Lanka" class="attraction-img_within" />
             <p> There's another train ride that I can't stop recommending to you.
               It's from the southern coast to Colombo; you can start wherever you like. May be from Galle or Bentota.

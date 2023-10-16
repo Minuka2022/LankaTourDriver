@@ -64,7 +64,7 @@
           <a href="beaches-in-sri-lanka" class="attraction-card">
             <div>
               <img src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-dickwella-beach-300x265.webp"
-                alt=" - Sri Lanka" class="itinerary-day-img" />
+              loading="lazy"  alt=" - Sri Lanka" class="itinerary-day-img" />
               <p>Beaches In Sri Lanka</p>
             </div>
           </a>
@@ -73,7 +73,7 @@
           <a href="boat-rides-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-peradeniya-boat-ride-sri-lanka-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-peradeniya-boat-ride-sri-lanka-300x265.webp"
                 alt="Boat Rides - Sri Lanka" class="itinerary-day-img" />
               <p>Boat Rides In Sri Lanka</p>
             </div>
@@ -83,7 +83,7 @@
           <a href="botanical-gardens-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-peradeniya-botanical-garden-sri-lanka-300x265.webp"
+              loading="lazy" src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-peradeniya-botanical-garden-sri-lanka-300x265.webp"
                 alt="Royal Botanical garden, Peradeniya - Sri Lanka" class="itinerary-day-img" />
               <p>Botanical Gardens In Sri Lanka</p>
             </div>
@@ -93,7 +93,7 @@
           <a href="cultural-and-heritage-sites-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-polonnaruwa-watadage-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-polonnaruwa-watadage-300x265.webp"
                 alt="Polonnaruwa Watadage - Sri Lanka" class="itinerary-day-img" />
               <p>Cultural And Heritage Sites</p>
             </div>
@@ -103,7 +103,7 @@
           <a href="hot-springs-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-hotspring-sri-lanka-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-hotspring-sri-lanka-300x265.webp"
                 alt="Hot Springs - Sri Lanka" class="itinerary-day-img" />
               <p>Hot Springs In Sri Lanka</p>
             </div>
@@ -113,7 +113,7 @@
           <a href="ballooning-elephant-rides-sigiriya-village-tour" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sigiriya-village-tour-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sigiriya-village-tour-300x265.webp"
                 alt="Sigiriya Vilage Tour - Sri Lanka" class="itinerary-day-img" />
               <p>Ballooning, Elepant Rides and Sigiriya Village Tour</p>
             </div>
@@ -123,7 +123,7 @@
           <a href="train-rides-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-train-ride-sri-lanka-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-train-ride-sri-lanka-300x265.webp"
                 alt="Train Ride - Sri Lanka" class="itinerary-day-img" />
               <p>Train Rides In Sri Lanka</p>
             </div>
@@ -133,7 +133,7 @@
           <a href="trekking-hiking-mountain-climbs-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sinharaja-trekking-sri-lanka-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sinharaja-trekking-sri-lanka-300x265.webp"
                 alt="Sinharaja Trekking - Sri Lanka" class="itinerary-day-img" />
               <p>Trekking and Mountain Climbs</p>
             </div>
@@ -143,7 +143,7 @@
           <a href="view-points-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-lipton-seat-sri-lanka-300x265.webp"
+              loading="lazy"  src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-lipton-seat-sri-lanka-300x265.webp"
                 alt="Lipton's Seat - Sri Lanka" class="itinerary-day-img" />
               <p>View Points In Sri Lanka</p>
             </div>
@@ -153,7 +153,7 @@
           <a href="sri-lanka-gems" class="attraction-card">
             <div>
               <img src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sri-lanka-gems-300x265.webp"
-                alt="Gems - Sri Lanka" class="itinerary-day-img" />
+              loading="lazy"  alt="Gems - Sri Lanka" class="itinerary-day-img" />
               <p>Sri Lanka Gems</p>
             </div>
           </a>
@@ -162,7 +162,7 @@
           <a href="dams-in-sri-lanka" class="attraction-card">
             <div>
               <img src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sri-lanka-dams-300x265.webp"
-                alt="Victoria Dam - Sri Lanka" class="itinerary-day-img" />
+              loading="lazy" alt="Victoria Dam - Sri Lanka" class="itinerary-day-img" />
               <p>Dams in Sri Lanka</p>
             </div>
           </a>
@@ -171,7 +171,7 @@
           <a href="waterfalls-in-sri-lanka" class="attraction-card">
             <div>
               <img
-                src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sri-lanka-water-fall-300x265.webp"
+              loading="lazy" src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-sri-lanka-water-fall-300x265.webp"
                 alt="Waterfall - Sri Lanka" class="itinerary-day-img" />
               <p>Waterfalls In Sri Lanka</p>
             </div>
@@ -182,7 +182,7 @@
             <div>
               <img
                 src="../assets/img/discover-sri-lanka/card-images/lankatourdriver.com-udawalawe-elephants-sri-lanka-300x265.webp"
-                alt="Udawalawe - Sri Lanka" class="itinerary-day-img" />
+                loading="lazy"  alt="Udawalawe - Sri Lanka" class="itinerary-day-img" />
               <p>Wildlife Conservation</p>
             </div>
           </a>

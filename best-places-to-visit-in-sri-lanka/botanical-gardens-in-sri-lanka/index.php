@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-hakgala-botanical-garden-sri-lanka-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-hakgala-botanical-garden-sri-lanka-1400x500.webp')">
     </div>
 
     <div class="page-heading">
@@ -55,7 +55,7 @@
 
                   <h3>Hakgala Botanical Garden</h3>
                   <img
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-hakgala-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-hakgala-375x331.webp"
                     alt="Hakgala Botanical Garden" class="attraction-img_within" />
                   <p>Many thousands of people flock to Hakgala Botanical Garden - Nuwara Eliya every spring to marvel at
                     the region's 10,000 or so
@@ -71,7 +71,7 @@
 
                   <h3>Henarathgoda Botanical Garden</h3>
                   <img
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-gampaha-henarathgoda-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-gampaha-henarathgoda-375x331.webp"
                     alt="Henarathgoda Botanical Garden - Sri Lanka" class="attraction-img_within" />
                   <p>The Gampaha Botanical Garden, also called the Henarathgoda Botanical Garden, is located in the
                     city's suburb of the same name. It was founded by the British in 1876 so that they could study the
@@ -86,7 +86,7 @@
 
                   <h3>Mirijjawila Dry Zone <br> Botanic Gardens</h3>
                   <img
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-mirijjawala-dry-zone-375x331.jpg"
+                  loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-mirijjawala-dry-zone-375x331.webp"
                     alt="Mirijjawila Dry Zone Botanic Gardens - Sri Lanka" class="attraction-img_within" />
                   <p>The first Sri Lankan botanical garden, Mirijjawila Dry Zone Botanic Gardens, is located in the
                     island's dry zone and was created by local experts to preserve endangered tree and shrub species,
@@ -102,7 +102,7 @@
 
                   <h3>Royal Botanical Gardens, <br> Peradeniya - Kandy</h3>
                   <img
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-peradeniya-royal-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-peradeniya-royal-375x331.webp"
                     alt="Royal Botanical Gardens, Peradeniya - Kandy - Sri Lanka" class="attraction-img_within" />
                   <p>Almost 4000 distinct plant species, some of the best in Asia, are on display at the Peradeniya
                     Botanical Gardens. A magnificent avenue of palm trees and the orchid collection are the highlights.
@@ -121,7 +121,7 @@
 
                   <h3>Seethawaka Wet Zone <br> Botanic Gardens</h3>
                   <img
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-seethawaka-wet-zone-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-botanical-gardens-seethawaka-wet-zone-375x331.webp"
                     alt="Seethawaka Wet Zone Botanic Gardens - Sri Lanka" class="attraction-img_within" />
                   <p>The 106-acre (43-hectare) Seethawaka (Sitawaka) Wet Zone Botanical Gardens were established in 2014
                     with the main objective of acting as a study and conservation area for endangered and fragile

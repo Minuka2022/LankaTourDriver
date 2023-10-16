@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-lanka-waterfall-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sri-lanka-waterfall-1400x500.webp')">
     </div>
 
     <div class="page-heading">
@@ -59,7 +59,7 @@
 
                   <h3>Ramboda Falls</h3>
                   <img class="attraction-img_within"
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-ramboda-ella-375x331.jpg"
+                  loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-ramboda-ella-375x331.webp"
                     alt="Ramboda Falls - Sri Lanka" class="itinerary-day-img" />
                   <p>Nuwara Eliya's stunning Ramboda Falls cascade inspired the area's name. The height of Ramboda Falls
                     is 109 meters (358 feet), making it the eleventh-tallest waterfall in Sri Lanka and the
@@ -75,7 +75,7 @@
 
                   <h3>Ravana Ella</h3>
                   <img class="attraction-img_within"
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-ravana-ella-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-ravana-ella-375x331.webp"
                     alt="Ravana Ella - Sri Lanka" class="itinerary-day-img" />
                   <p>Its height is roughly 85 meters. The fact that it is a fragmented waterfall only to its
                     attractiveness. It varies in width, contains both quiet and tumultuous sections, and is generally
@@ -89,7 +89,7 @@
 
                   <h3>Dunhinda Falls</h3>
                   <img class="attraction-img_within"
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-dunhida-ella-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-dunhida-ella-375x331.webp"
                     alt="Dunhinda Falls - Sri Lanka" class="itinerary-day-img" />
                   <p>Dunhinda is one of Sri Lanka's most well-known natural attractions. The structure is 64 meters in
                     height. Located on the Badulu Oya, which empties into the Mahaweli River, is the picturesque
@@ -103,7 +103,7 @@
 
                   <h3>Diyaluma Falls</h3>
                   <img class="attraction-img_within"
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-diyaluma-ella-375x331.jpg"
+                  loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-diyaluma-ella-375x331.webp"
                     alt="Diyaluma Falls - Sri Lanka" class="itinerary-day-img" />
                   <p>Diyaluma Falls can be reached from Ella in about an hour. This multi-tiered waterfall, which stands
                     at an impressive 220 meters in height and features natural pools at its peak, is Sri Lanka's
@@ -118,7 +118,7 @@
 
                   <h3>Devon Falls</h3>
                   <img class="attraction-img_within"
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-devon-375x331.jpg"
+                  loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-devon-375x331.webp"
                     alt="Devon Falls - Sri Lanka" class="itinerary-day-img" />
                   <p>This waterfall named as "Devon Falls" after an early coffee planter who lived in
                     the area. It stands at a lofty 97 meters in height.</p>
@@ -132,7 +132,7 @@
 
                   <h3>St. Clair's Falls</h3>
                   <img class="attraction-img_within"
-                    src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-st-clairs-375x331.jpg"
+                  loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-waterfalls-st-clairs-375x331.webp"
                     alt="St. Clair's Falls - Sri Lanka" class="itinerary-day-img" />
                   <p>The 'Little Niagara of Sri Lanka,' as it is colloquially known, is one of the widest waterfalls in
                     Sri Lanka. It is one of the most picturesque waterfalls as it runs through green hills and lush tea

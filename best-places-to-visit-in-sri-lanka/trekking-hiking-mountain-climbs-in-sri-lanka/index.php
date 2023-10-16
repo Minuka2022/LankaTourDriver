@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-mountains-sri-lanka-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-mountains-sri-lanka-1400x500.webp')">
     </div>
     <style>
       @media (max-width: 768px) {
@@ -75,7 +75,7 @@
               An attractive panorama awaits you at the peak of a nearby rock. It is the fortress of Sigiriya, or "lion
               rock," as you have dubbed it.</p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-pidurangala-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-pidurangala-375x331.webp"
               alt="Pidurangala - Sri Lanka" class="itinerary-day-img" />
             <p>
               In this spot, you can see the Sigiriya fortress more clearly and in greater detail than any other.
@@ -108,7 +108,7 @@
               It's a great place to watch the sun come up.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-sigiriya-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-cultural-heritage-sigiriya-375x331.webp"
               alt="Sigiriya - Sri Lanka" class="itinerary-day-img" />
             <p>
 
@@ -139,7 +139,7 @@
               afternoon.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-sri-pada-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-view-points-sri-pada-375x331.webp"
               alt="Sri Pada / Adam's Peak - Sri Lanka" class="itinerary-day-img" />
             <p>
               Adam's Peak is at its most beautiful and accessible between the months of December and May, and unlike
@@ -168,7 +168,7 @@
               surrounding.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-little-adams-peak-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-little-adams-peak-375x331.webp"
               alt="Little Adam's peak - Sri Lanka" class="itinerary-day-img" />
             <p>
 
@@ -196,7 +196,7 @@
               unique. Be careful; you will get lost if you follow the wrong signs.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-ella-rock-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-ella-rock-375x331.webp"
               alt="Ella Rock - Sri Lanka" class="itinerary-day-img" />
             <p>
               Because this is not a crowded area, you should be cautious about your safety. If you go with someone who
@@ -243,7 +243,7 @@
 
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-ritigala-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-ritigala-375x331.webp"
               alt="Ritigala Mountain - Sri Lanka" class="itinerary-day-img" />
             <p>We have no idea how true this is but it certainly seems incredible.
 
@@ -279,7 +279,7 @@
             </p>
 
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-rose-quartz-mountain-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-rose-quartz-mountain-375x331.webp"
               alt="Rose Quartz Mountain Range - Sri Lanka" class="itinerary-day-img" />
             <p>
 
@@ -303,7 +303,7 @@
 
             <h3>Mihintale</h3>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-mihintale-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-mihintale-375x331.webp"
               alt="Mihintale - Sri Lanka" class="itinerary-day-img" />
             <p>Mihinthale hiking isn't too hard, and it only takes 15 to 20 minutes to get to the top of the rock, where
               it's very windy and there's a small viewpoint. Mihinthale is an important place for the Buddhists in Sri
@@ -328,7 +328,7 @@
               than riding in a vehicle.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-liptons-seat-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-liptons-seat-375x331.webp"
               alt="Lipton's Seat - Sri Lanka" class="itinerary-day-img" />
             <p>
               Because you
@@ -355,7 +355,7 @@
               there.
             </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-horton-plains-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-horton-plains-375x331.webp"
               alt="Horton Plains - Sri Lanka" class="itinerary-day-img" />
             <p>
               So this would be a lifetime experience for you that you would
@@ -387,7 +387,7 @@
               This place was described as a world heritage in 1988 by
               UNESCO. </p>
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-sinharaja-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-trek-hike-sinharaja-375x331.webp"
               alt="Trekking in Sinharaja - Sri Lanka" class="itinerary-day-img" />
             <p> This forest reserve is the last viable primary tropical rainforest
               in Sri Lanka.

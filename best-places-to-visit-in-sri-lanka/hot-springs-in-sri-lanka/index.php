@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-madunagala-hot-springs-sri-lanka-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-madunagala-hot-springs-sri-lanka-1400x500.webp')">
     </div>
 
 
@@ -145,8 +145,8 @@
       <div class="row">
         <div class="col-md-12">
           <div class="attraction">
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-hot-water-springs-kanniya-375x331.jpg"
-              alt="Kanniya Hot Water Springs - Sri Lanka" class="itinerary-day-img" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-hot-water-springs-kanniya-375x331.webp"
+            loading="lazy"  alt="Kanniya Hot Water Springs - Sri Lanka" class="itinerary-day-img" />
             <h3>Kanniya Hot Water Springs - Trincomalee</h3>
             <p>Among Sri Lanka's many thermal springs, Kanniya Hot Water Springs is by far the most well-known and
               frequented.
