@@ -1063,11 +1063,11 @@
     <footer>
         <?php include_once 'components/footer.php' ?>
         <!-- Data Tables -->
-        <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-        <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js" async></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js" async></script>
         <!-- Custom Theme JavaScript -->
 
-        <script>
+        <script defer>
 
             const accordianQuestions = document.querySelectorAll(".accordian-title");
 

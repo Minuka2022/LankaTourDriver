@@ -151,7 +151,7 @@ comfortably.">
         <div class="container drivers">
             <div class="row driver" style="margin-bottom: 0">
                 <div class="col-md-5">
-                    <img src="assets/img/team/lankatourdriver.com-drivers-guides-Harsha-Bandara.jpg"
+                    <img src="assets/img/team/lankatourdriver.com-drivers-guides-Harsha-Bandara.webp"
                         alt="Harsha Bandara" class="img-responsive">
                 </div>
                 <div class="col-md-7">
@@ -180,7 +180,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Kasun.jpg" alt="Kasun"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Kasun.webp" alt="Kasun"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -201,7 +201,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Lahiru.jpg" alt="Lahiru"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Lahiru.webp" alt="Lahiru"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -223,7 +223,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Srimal.jpg" alt="Srimal"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Srimal.webp" alt="Srimal"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -241,7 +241,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Vihanga.jpg" alt="Vihanga"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Vihanga.webp" alt="Vihanga"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -262,7 +262,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Omila.jpg" alt="Omila"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Omila.webp" alt="Omila"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -282,7 +282,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Duminda.jpg" alt="Duminda"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Duminda.webp" alt="Duminda"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -302,7 +302,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Roshan.jpg" alt="Roshan"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Roshan.webp" alt="Roshan"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -322,7 +322,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Prasad.jpg"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Prasad.webp"
                                 alt="Prasad Aluwihare" class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -380,7 +380,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Dilan.jpg" alt="Dilan"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Dilan.webp" alt="Dilan"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -399,7 +399,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Prasanna.jpg" alt="Prasanna"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Prasanna.webp" alt="Prasanna"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -421,7 +421,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Kapila.jpg" alt="Kapila"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Kapila.webp" alt="Kapila"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -442,7 +442,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Mano.jpg" alt="Mano"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Mano.webp" alt="Mano"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -463,7 +463,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Gihan.jpg" alt="Gihan Halpe"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Gihan.webp" alt="Gihan Halpe"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -483,7 +483,7 @@ comfortably.">
                 <div class="col-md-6">
                     <div class="row driver">
                         <div class="col-md-7">
-                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Gerald.jpg" alt="Felix Gerad"
+                            <img src="assets/img/team/lankatourdriver.com-drivers-guides-Gerald.webp" alt="Felix Gerad"
                                 class="img-responsive">
                         </div>
                         <div class="col-md-5">
@@ -549,57 +549,57 @@ comfortably.">
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme">
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit-shuttle-grey.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit-shuttle-grey.webp"
                                 alt="Honda Fit Shuttle Grey" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-highroof-white.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-highroof-white.webp"
                                 alt="Toyota Hiace Highroof White" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-premio.jpg" alt="Toyota Premio"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-premio.webp" alt="Toyota Premio"
                                 style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit-shuttle-red.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit-shuttle-red.webp"
                                 alt="Honda Fit Shuttle Red" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit-shuttle.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit-shuttle.webp"
                                 alt="Honda Fit Shuttle" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-super-gl-green.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-super-gl-green.webp"
                                 alt="Toyota Hiace Super Gl Green" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-nissan-caravan.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-nissan-caravan.webp"
                                 alt="Nissan Caravan" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-highroof-white-alpha-kit.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-highroof-white-alpha-kit.webp"
                                 alt="Toyota Hiace Highroof White Alpha Kit" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit.jpg" alt="Honda Fit"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-honda-fit.webp" alt="Honda Fit"
                                 style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-highroof.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-highroof.webp"
                                 alt="Toyota Hiace Highroof" style="width:100%;">
                         </div>
 
                         <div class="item">
-                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-super-gl-black.jpg"
+                            <img src="assets/img/fleet/lankatourdriver.com-fleet-toyota-hiace-super-gl-black.webp"
                                 alt="Toyota Hiace Super Gl Black" style="width:100%;">
                         </div>
                     </div>
