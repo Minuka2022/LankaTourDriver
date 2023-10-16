@@ -11,7 +11,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('assets/img/page-headers/lankatourdriver.com-natural-attractions-sri-lanka-headerImage-1400x500.jpg')">
+      style="background-image: url('assets/img/page-headers/lankatourdriver.com-natural-attractions-sri-lanka-headerImage-1400x500.webp')">
     </div>
     <div class="page-heading">
       <div class="container">
@@ -95,7 +95,7 @@
 
         <div class="col-lg-6">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d112656.02224320214!2d80.86939089796674!3d7.933950370107724!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf30dcf6cf788c7c1!2sLanka%20Tour%20Driver!5e0!3m2!1sen!2slk!4v1570927808128!5m2!1sen!2slk"
+          rel="preconnect" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d112656.02224320214!2d80.86939089796674!3d7.933950370107724!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf30dcf6cf788c7c1!2sLanka%20Tour%20Driver!5e0!3m2!1sen!2slk!4v1570927808128!5m2!1sen!2slk"
             width="100%" height="450" frameborder="0" style="border: 0" allowfullscreen=""></iframe>
         </div>
       </div>
@@ -108,7 +108,7 @@
     <?php include_once 'components/footer.php' ?>
 
     <!-- Custom JavaScript -->
-    <script src="contactform/contactform.js" type="text/javascript"></script>
+    <script async src="contactform/contactform.js" type="text/javascript"></script>
     <!-- reCAPTCHA JavaScript -->
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 

@@ -5,7 +5,7 @@
 <meta name="description"
   content="Stay up-to-date with the cost of travelling in Sri Lanka for travelers with our regularly updated price list. Find out the prices of everyday services in one convenient place.">
 <!-- Data Tables -->
-<link href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap.min.css" rel="stylesheet" type="text/css"   rel="preconnect"/>
 
 <style type="text/css">
   .center-pills {
@@ -53,7 +53,7 @@
   <!-- Section: intro -->
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('assets/img/page-headers/lankatourdriver.com-colombo-1400x500.jpg')">
+      style="background-image: url('assets/img/page-headers/lankatourdriver.com-colombo-1400x500.webp')">
     </div>
 
     <div class="page-heading">

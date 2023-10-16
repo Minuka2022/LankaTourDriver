@@ -13,7 +13,7 @@
     <section class="inner-page-header">
 
         <div class="inner-page-header-background"
-            style="background-image: url('assets/img/page-headers/lankatourdriver.com-tourists-in-sri-lanka-1400x500.jpg')">
+            style="background-image: url('assets/img/page-headers/lankatourdriver.com-tourists-in-sri-lanka-1400x500.webp')">
         </div>
         <style>
             @media (max-width: 768px) {
