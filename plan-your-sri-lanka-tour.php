@@ -1,6 +1,6 @@
 <?php include_once 'components/header.php'; ?>
-<link rel="stylesheet" href="assets/css/itinerary-single.css">
-<link rel="stylesheet" href="assets/css/ltd-form.css">
+<link rel="stylesheet" href="assets/css/itinerary-single.css" rel="preconnect">
+<link rel="stylesheet" href="assets/css/ltd-form.css" rel="preconnect" >
 <title>Personalize Your Sri Lanka Dream Vacation | Lanka Tour Driver</title>
 <meta name="description"
     content="Ready to explore Sri Lanka on your terms? Personalize your tour to include your favorite activities, accommodations, and destinations. Start planning now!">

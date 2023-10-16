@@ -5,9 +5,9 @@
 comfortably.">
 
 <link rel="stylesheet"
-    href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css">
+    href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css" rel="preconnect">
 <link rel="stylesheet"
-    href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css">
+    href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css" rel="preconnect">
 
 
 
@@ -25,6 +25,7 @@ comfortably.">
             style="background-image: url('assets/img/page-headers/lankatourdriver.com-tourists-with-guide-in-sri-lanka-1400x500-3.jpg')">
         </div>
         <style>
+            
             @media (max-width: 768px) {
                 .inner-page-header .inner-page-header-background {
                     background-position: 37% 74px;
@@ -618,7 +619,7 @@ comfortably.">
 
 
         <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script> -->
-        <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
+        <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js" async></script>
         <script>
             $('.owl-carousel').owlCarousel({
                 loop: true,
