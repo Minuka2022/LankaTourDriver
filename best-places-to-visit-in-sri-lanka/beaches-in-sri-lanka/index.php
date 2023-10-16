@@ -13,7 +13,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-hikkaduwa-beach-sri-lanka-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-hikkaduwa-beach-sri-lanka-1400x500.webp')">
     </div>
 
 
@@ -49,8 +49,8 @@
           <div class="attraction">
 
             <h3>Unawatuna Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-unawatuna-375x331.jpg"
-              alt="Unawatuna Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-unawatuna-375x331.webp"
+            loading="lazy" alt="Unawatuna Beach - Sri Lanka" class="attraction-img_within" />
             <p>Go for a dip in the calm, blue waters. Unawatuna is the most popular beach in Sri Lanka and a major draw
               for visitors. The beach takes the shape of a banana and features golden sand, turquoise sea, and palm
               trees.
@@ -61,8 +61,8 @@
           <div class="attraction">
 
             <h3>Bentota Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-bentota-375x331.jpg"
-              alt="Bentota Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-bentota-375x331.webp"
+            loading="lazy" alt="Bentota Beach - Sri Lanka" class="attraction-img_within" />
             <p>When was the last time you saw the mangroves this way? Bentota is a favorite vacation spot for locals and
               visitors alike due to its extensive stretches of sandy beach, flowing rivers, rich history, and thrilling
               water sports.
@@ -76,8 +76,8 @@
           <div class="attraction">
 
             <h3>Mirissa Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-mirissa-375x331.jpg"
-              alt="Mirissa Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-mirissa-375x331.webp"
+            loading="lazy" alt="Mirissa Beach - Sri Lanka" class="attraction-img_within" />
             <p> Let's go on a whale-watching trip. Mirissa has a tropical environment all year long, drawing visitors
               for its beautiful beaches, surfing, snorkeling, whale watching tours, exciting nightlife, and delectable
               cuisine.
@@ -89,8 +89,8 @@
           <div class="attraction">
 
             <h3>Dickwella Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-dickwella-375x331.jpg"
-              alt="Dickwella Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-dickwella-375x331.webp"
+            loading="lazy"  alt="Dickwella Beach - Sri Lanka" class="attraction-img_within" />
             <p>What about a romantic date? Although it's not a well-known beach in the country, you'll be tempted to
               visit by its natural beauty. The village of Dickwella, Sri Lanka, is home to the popular beach of the same
               name.
@@ -104,8 +104,8 @@
           <div class="attraction">
 
             <h3>Nilaveli Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-nilaveli-375x331.jpg"
-              alt="Nilaveli Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-nilaveli-375x331.webp"
+            loading="lazy" alt="Nilaveli Beach - Sri Lanka" class="attraction-img_within" />
             <p>Let's go have some fun in the white sand. Around 16 kilometers north of Trincomalee, there is a beach
               called Nilaveli, which is flanked by a vibrant lagoon and lined by luscious coconut palm groves and herds
               of
@@ -118,8 +118,8 @@
           <div class="attraction">
 
             <h3>Pigeon Island</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-pigeon-island-375x331.jpg"
-              alt="Pigeon Island - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-pigeon-island-375x331.webp"
+            loading="lazy" alt="Pigeon Island - Sri Lanka" class="attraction-img_within" />
             <p>Check out these live corals! The rock pigeon is responsible for giving the island its name, Pigeon
               Island. Some of Sri Lanka's best coral reefs are found in the national park.
 
@@ -132,8 +132,8 @@
           <div class="attraction">
 
             <h3>Weligama Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-weligama-375x331.jpg"
-              alt="Weligama Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-weligama-375x331.webp"
+            loading="lazy"  alt="Weligama Beach - Sri Lanka" class="attraction-img_within" />
             <p>Relax for a while. Its coastline has earned Weligama worldwide renown. "sandy village" is the literal
               translation of the name Weligama. It has a two-kilometer long, shallow sandy beach, ideal for surfing,
               snorkeling, and seeing coral reefs.
@@ -148,8 +148,8 @@
           <div class="attraction">
 
             <h3>Induruwa Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-induruwa-375x331.jpg"
-              alt="Induruwa Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-induruwa-375x331.webp"
+            loading="lazy" alt="Induruwa Beach - Sri Lanka" class="attraction-img_within" />
             <p> Let's take a break and chill in this rural area. Although it is not as well-known as other beaches in
               the area, Induruwa Beach is a popular destination. It's the perfect spot because it has a long,
               uninterrupted expanse of golden sand.
@@ -163,8 +163,8 @@
           <div class="attraction">
 
             <h3>Hikkaduwa Beach </h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-hikkaduwa-375x331.jpg"
-              alt="Hikkaduwa Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-hikkaduwa-375x331.webp"
+            loading="lazy"  alt="Hikkaduwa Beach - Sri Lanka" class="attraction-img_within" />
             <p>Pure, untouched nature. Seafood curry, massages, Buddhist temples, and ocean sports like surfing,
               snorkeling, and diving have all made Hikkaduwa Beach famous.
 
@@ -177,8 +177,8 @@
           <div class="attraction">
 
             <h3>Koggala Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-koggala-375x331.jpg"
-              alt="Koggala Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-koggala-375x331.webp"
+            loading="lazy"  alt="Koggala Beach - Sri Lanka" class="attraction-img_within" />
             <p>You have arrived in the territory of the turtles. Koggala Beach is widely regarded as one of the finest
               stretches of sand along the island's southern shore. The beach features conditions that are cross-onshore
               with a mild swell.
@@ -192,8 +192,8 @@
           <div class="attraction">
 
             <h3>Arugam Bay</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-arugam-bay-375x331.jpg"
-              alt="Arugam Bay Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-arugam-bay-375x331.webp"
+            loading="lazy"  alt="Arugam Bay Beach - Sri Lanka" class="attraction-img_within" />
             <p>You should definitely bring your surfboards. Let's hit the waves. Located in the southeast corner of Sri
               Lanka, Arugam Bay faces the Indian Ocean during the dry season. You may find the bay by heading 320
               kilometers straight east of Colombo. It's a hotspot for surfers and vacationers alike.
@@ -208,8 +208,8 @@
           <div class="attraction">
 
             <h3>Uppuveli Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-uppuveli-375x331.jpg"
-              alt="Uppuveli Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-uppuveli-375x331.webp"
+            loading="lazy"   alt="Uppuveli Beach - Sri Lanka" class="attraction-img_within" />
             <p>We should chow down on the delicious seafood. Located in the quiet neighborhood of Uppuveli, just five
               kilometres from the center of Trincomalee, is the peaceful beach known as Uppuveli Beach. To go swimming
               or sunbathing, head to Uppuveli, a beautiful, long beach.
@@ -223,8 +223,8 @@
           <div class="attraction">
 
             <h3>Polhena Beach</h3>
-            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-polhena-375x331.jpg"
-              alt="Polhena Beach - Sri Lanka" class="attraction-img_within" />
+            <img src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-beaches-polhena-375x331.webp"
+            loading="lazy"  alt="Polhena Beach - Sri Lanka" class="attraction-img_within" />
             <p> Have a serious addiction to water sports? Polhena Beach, located in Matara, is a tranquil beach that is
               ideal for simply unwinding and basking in the sun while taking in the unobstructed views of the Indian
               Ocean.

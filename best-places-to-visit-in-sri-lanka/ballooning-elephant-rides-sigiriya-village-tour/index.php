@@ -12,7 +12,7 @@
 
   <section class="inner-page-header">
     <div class="inner-page-header-background"
-      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sigiriya-bullock-cart-ride-1400x500.jpg')">
+      style="background-image: url('../../assets/img/page-headers/lankatourdriver.com-sigiriya-bullock-cart-ride-1400x500.webp')">
     </div>
 
 
@@ -45,7 +45,7 @@
               relaxation to your holiday.</p>
 
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-activities-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-activities-375x331.webp"
               alt="Sigiriya Village Tour - Sri Lanka" class="itinerary-day-img" />
 
 
@@ -58,7 +58,7 @@
               Sri Lankan lunch during this tour.</p>
 
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-meal-375x331.jpg"
+            loading="lazy" src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-meal-375x331.webp"
               alt="Sigiriya Village Tour - Sri Lanka" class="itinerary-day-img" />
 
             <p>During your village tour in Sigiriya you'll get a chance to experience,</p>
@@ -87,7 +87,7 @@
               jungle and along the river, you can relax and take in the sights from the comfort of your back.</p>
 
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-elephant-ride-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-elephant-ride-375x331.webp"
               alt="Elephant Ride - Sri Lanka" class="itinerary-day-img" />
 
             <p>A ride close to Sigiriya Rock is an absolute must. The monolith provides a stunning backdrop for
@@ -115,7 +115,7 @@
               relaxation to your holiday.</p>
 
             <img class="attraction-img_within"
-              src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-balloon-ride-375x331.jpg"
+            loading="lazy"  src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-sigiriya-village-tour-balloon-ride-375x331.webp"
               alt="Hot Air Balloon Rides - Sri Lanka" class="itinerary-day-img" />
 
           </div>
