@@ -12,7 +12,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-elephants-minneriya-national-park-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-elephants-minneriya-national-park-1400x500.webp')">
         </div>
         <style>
             @media (max-width: 768px) {
@@ -54,8 +54,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-temple-of-the-tooth-kandy-375x331.jpg"
-                                                alt="Temple Of The Tooth Kandy - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-temple-of-the-tooth-kandy-375x331.webp"
+                                            loading="lazy"  alt="Temple Of The Tooth Kandy - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 1: Airport to Kandy</h3>
@@ -93,8 +93,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-ambuluwawa-tower-gampola-kandy-sri-lanka-375x331.jpg"
-                                                alt="Ambuluwawa Tower Gampola Kandy - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-ambuluwawa-tower-gampola-kandy-sri-lanka-375x331.webp"
+                                            loading="lazy" alt="Ambuluwawa Tower Gampola Kandy - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -127,8 +127,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-blue-train-375x331.jpg"
-                                                alt="Nuwara Eliya Blue Train - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-blue-train-375x331.webp"
+                                            loading="lazy"  alt="Nuwara Eliya Blue Train - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 3: Nuwara Eliya to Yala</h3>
@@ -170,8 +170,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-hikkaduwa-beach-375x331.jpg"
-                                                alt="Hikkaduwa - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-hikkaduwa-beach-375x331.webp"
+                                            loading="lazy"   alt="Hikkaduwa - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 4: Ella to South Beach Coast via Udawalawa</h3>
@@ -231,8 +231,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-galle-face-375x331.jpg"
-                                                alt="Colombo Galle Face Green - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-galle-face-375x331.webp"
+                                            loading="lazy"  alt="Colombo Galle Face Green - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 5: South Beach Coast to Airport</h3>

@@ -51,22 +51,22 @@
   <meta name="yandex-verification" content="73b96bec64eea977" />
 
   <!-- Bootstrap Core CSS -->
-  <link href="https://lankatourdriver.com/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+  <link href="https://lankatourdriver.com/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" rel="preconnect" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="preconnect"
     integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
   <!-- Squad theme CSS -->
-  <link rel="shortcut icon" href="https://lankatourdriver.com/assets/img/favicon.ico" type="image/x-icon" />
-  <link href="https://lankatourdriver.com/assets/color/default.css" rel="stylesheet" />
-  <link href="https://lankatourdriver.com/assets/css/style.css" rel="stylesheet" />
-  <link href="https://lankatourdriver.com/assets/css/cardstyle.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="https://lankatourdriver.com/assets/img/favicon.ico" type="image/x-icon" rel="preconnect"/>
+  <link href="https://lankatourdriver.com/assets/color/default.css" rel="stylesheet"rel="preconnect" />
+  <link href="https://lankatourdriver.com/assets/css/style.css" rel="stylesheet" rel="preconnect"/>
+  <link href="https://lankatourdriver.com/assets/css/cardstyle.css" rel="stylesheet" type="text/css" rel="preconnect"/>
 
 
-  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css" rel="preconnect">
 
   <!-- Custom CSS -->
 
-  <link href="https://lankatourdriver.com/assets/css/custom-style.css" rel="stylesheet" />
+  <link href="https://lankatourdriver.com/assets/css/custom-style.css" rel="stylesheet"rel="preconnect" />
 
   <meta name="msapplication-TileImage"
     content="https://lankatourdriver.com/assets/img/lankatourdriver-thumb-200x200.png">

@@ -14,7 +14,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-mountain-view-sri-lanka-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-mountain-view-sri-lanka-1400x500.webp')">
         </div>
         <style>
             @media (max-width: 768px) {
@@ -59,8 +59,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pinnawala-elephant-orphanage-375x331.jpg"
-                                                alt="Pinnawala Elephant Orphanage - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pinnawala-elephant-orphanage-375x331.webp"
+                                            loading="lazy"  alt="Pinnawala Elephant Orphanage - Sri Lanka"
                                                 class="itinerary-day-img">
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -98,8 +98,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-tea-factory-tea-plantation-375x331.jpg"
-                                                alt="Nuwara Eliya Tea Factory Tea Plantation - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-tea-factory-tea-plantation-375x331.webp"
+                                            loading="lazy"   alt="Nuwara Eliya Tea Factory Tea Plantation - Sri Lanka"
                                                 class="itinerary-day-img">
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -130,8 +130,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-post-office-375x331.jpg"
-                                                alt="Nuwara Eliya Post Office - Sri Lanka" class="itinerary-day-img">
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-post-office-375x331.webp"
+                                            loading="lazy"  alt="Nuwara Eliya Post Office - Sri Lanka" class="itinerary-day-img">
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 3: Nuwara Eliya to Bentota</h3>
@@ -169,8 +169,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-madu-river-boat-safari-375x331.jpg"
-                                                alt="Madu River Boat Safari - Sri Lanka" class="itinerary-day-img">
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-madu-river-boat-safari-375x331.webp"
+                                            loading="lazy"  alt="Madu River Boat Safari - Sri Lanka" class="itinerary-day-img">
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 4: Bentota to Airport via Colombo</h3>

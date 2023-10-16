@@ -280,13 +280,13 @@
 </div>
 
 <!-- Core JavaScript Files -->
-<script src="https://lankatourdriver.com/assets/js/jquery.min.js"></script>
-<script src="https://lankatourdriver.com/assets/js/bootstrap.min.js"></script>
+<script async  src="https://lankatourdriver.com/assets/js/jquery.min.js"></script>
+<script async  src="https://lankatourdriver.com/assets/js/bootstrap.min.js"></script>
 
 
 
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
+<script  type="text/javascript" defer>
   var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
   (function () {
     var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
@@ -314,5 +314,5 @@
 <!--End of Tawk.to Script-->
 
 
-<!-- <script src="https://lankatourdriver.com/assets/js/disableClick.js"></script> -->
-<script src="https://lankatourdriver.com/assets/js/custom.js"></script>
+<!-- <script defer src="https://lankatourdriver.com/assets/js/disableClick.js"></script> -->
+<script async  src="https://lankatourdriver.com/assets/js/custom.js"></script>

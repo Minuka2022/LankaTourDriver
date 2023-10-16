@@ -13,7 +13,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-yala-national-park-elephants-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-yala-national-park-elephants-1400x500.webp')">
         </div>
 
 
@@ -56,8 +56,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-yapahuwa-kingdom-375x331.jpg"
-                                                alt="Yapahuwa Kingdom - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-yapahuwa-kingdom-375x331.webp"
+                                            loading="lazy"  alt="Yapahuwa Kingdom - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 1: Airport to Anuradhapura</h3>
@@ -91,8 +91,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-isurumuniya-rajamaha-viharaya-375x331.jpg"
-                                                alt="Isurumuniya Rajamaha Viharaya - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-isurumuniya-rajamaha-viharaya-375x331.webp"
+                                            loading="lazy"  alt="Isurumuniya Rajamaha Viharaya - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -122,8 +122,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-thanthirimale-temple-375x331.jpg"
-                                                alt="Thanthirimale Temple - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-thanthirimale-temple-375x331.webp"
+                                            loading="lazy"  alt="Thanthirimale Temple - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 2: Anuradhapura to Mannar</h3>
@@ -153,8 +153,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-jaffna-fishing-boats-375x331.jpg"
-                                                alt="Jaffna Fishing Boats - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-jaffna-fishing-boats-375x331.webp"
+                                            loading="lazy"  alt="Jaffna Fishing Boats - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 4: Mannar to Jaffna</h3>
@@ -186,8 +186,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nagadeepa-ancient-buddhist-temple-375x331.jpg"
-                                                alt="Nagadeepa Ancient Buddhist Temple - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nagadeepa-ancient-buddhist-temple-375x331.webp"
+                                            loading="lazy"  alt="Nagadeepa Ancient Buddhist Temple - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -214,8 +214,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-jaffna-nallur-kandaswami-kovil-375x331.jpg"
-                                                alt="Jaffna Nallur Kandaswami Kovil - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-jaffna-nallur-kandaswami-kovil-375x331.webp"
+                                            loading="lazy"  alt="Jaffna Nallur Kandaswami Kovil - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -245,8 +245,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nilaveli-beach-sri-lanka-375x331.jpg"
-                                                alt="Nilaveli beach - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nilaveli-beach-sri-lanka-375x331.webp"
+                                            loading="lazy"   alt="Nilaveli beach - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 7: Jaffna to Nilaveli</h3>
@@ -273,8 +273,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nilaveli-snorkeling-375x331.jpg"
-                                                alt="Nilaveli Snorkeling - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nilaveli-snorkeling-375x331.webp"
+                                            loading="lazy"  alt="Nilaveli Snorkeling - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 8: Nilaveli to Pigeon island</h3>
@@ -301,8 +301,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pidurangala-sunset-375x331.jpg"
-                                                alt="Pidurangala Sunset - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pidurangala-sunset-375x331.webp"
+                                            loading="lazy"   alt="Pidurangala Sunset - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 9: Nilaveli to Sigiriya</h3>
@@ -331,8 +331,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-lankathilaka-image-house-375x331.jpg"
-                                                alt="Lankathilaka Image House - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-lankathilaka-image-house-375x331.webp"
+                                            loading="lazy"   alt="Lankathilaka Image House - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 10: Sigiriya to Polonnaruwa</h3>
@@ -364,8 +364,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sigiriya-rock-fortress-375x331.jpg"
-                                                alt="Sigiriya Rock Fortress - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sigiriya-rock-fortress-375x331.webp"
+                                            loading="lazy"   alt="Sigiriya Rock Fortress - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 11: Sigiriya to Kandy</h3>
@@ -398,8 +398,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sri-pada-375x331.jpg"
-                                                alt="Adam's peak / Sri Pada - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sri-pada-375x331.webp"
+                                            loading="lazy"   alt="Adam's peak / Sri Pada - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 12: Kandy to Adam's peak</h3>
@@ -430,8 +430,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-devon-falls-375x331.jpg"
-                                                alt="Devon Falls - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-devon-falls-375x331.webp"
+                                            loading="lazy"  alt="Devon Falls - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 13: Adam's peak to Nuwara Eliya</h3>
@@ -462,8 +462,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-moon-plains-375x331.jpg"
-                                                alt="Nuwara Eliya Moon Plains - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-moon-plains-375x331.webp"
+                                            loading="lazy"  alt="Nuwara Eliya Moon Plains - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 14: Nuwara Eliya to Ella</h3>
@@ -491,8 +491,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nine-arch-bridge-ella-sri-lanka-375x331.jpg"
-                                                alt="Nine Arch Bridge Ella - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nine-arch-bridge-ella-sri-lanka-375x331.webp"
+                                            loading="lazy"  alt="Nine Arch Bridge Ella - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 15: Ella city tour</h3>
@@ -520,8 +520,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-yala-national-park-375x331.jpg"
-                                                alt="Yala National Park - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-yala-national-park-375x331.webp"
+                                            loading="lazy"  alt="Yala National Park - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 16: Ella to Yala</h3>
@@ -557,8 +557,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-udawalawe-national-park-375x331.jpg"
-                                                alt="Udawalawe National Park - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-udawalawe-national-park-375x331.webp"
+                                            loading="lazy"  alt="Udawalawe National Park - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 17: Yala to Sinharaja</h3>
@@ -586,8 +586,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-mirissa-whale-watching-375x331.jpg"
-                                                alt="Mirissa Whale Watching - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-mirissa-whale-watching-375x331.webp"
+                                            loading="lazy"  alt="Mirissa Whale Watching - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 18: Sinharaja to South Coast</h3>
@@ -639,8 +639,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-bentota-brief-garden-375x331.jpg"
-                                                alt="Bentota Brief Garden - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-bentota-brief-garden-375x331.webp"
+                                            loading="lazy"    alt="Bentota Brief Garden - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 19: Chillaxing on the beach</h3>
@@ -665,8 +665,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-national-museum-375x331.jpg"
-                                                alt="Colombo National Museum - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-national-museum-375x331.webp"
+                                            loading="lazy"  alt="Colombo National Museum - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 20: South Beach Coast to Negombo
@@ -704,8 +704,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sri-lankan-airlines-flight-375x331.jpg"
-                                                alt="Sri Lanka Airlines" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sri-lankan-airlines-flight-375x331.webp"
+                                            loading="lazy"   alt="Sri Lanka Airlines" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 21: Negombo to Airport</h3>

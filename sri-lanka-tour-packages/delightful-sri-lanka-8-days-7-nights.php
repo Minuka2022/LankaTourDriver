@@ -13,7 +13,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-bird-on-a-tree-branch-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-bird-on-a-tree-branch-1400x500.webp')">
         </div>
 
         <div class="page-heading">
@@ -51,8 +51,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-awukana-buddha-statue-375x331.jpg"
-                                                alt="Awukana Buddha Statue - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-awukana-buddha-statue-375x331.webp"
+                                            loading="lazy" alt="Awukana Buddha Statue - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 1: Airport to Anuradapura</h3>
@@ -86,8 +86,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pidurangala-sunset-375x331.jpg"
-                                                alt="Pidurangala Sunset - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pidurangala-sunset-375x331.webp"
+                                            loading="lazy" alt="Pidurangala Sunset - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 2: Anuradapura to Sigiriya</h3>
@@ -113,8 +113,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-inside-the-temple-of-the-tooth-kandy-375x331.jpg"
-                                                alt="Inside The Temple Of The Tooth Kandy - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-inside-the-temple-of-the-tooth-kandy-375x331.webp"
+                                            loading="lazy"  alt="Inside The Temple Of The Tooth Kandy - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -151,8 +151,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-ambuluwawa-tower-gampola-kandy-sri-lanka-375x331.jpg"
-                                                alt="Ambuluwawa Tower Gampola Kandy - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-ambuluwawa-tower-gampola-kandy-sri-lanka-375x331.webp"
+                                            loading="lazy" alt="Ambuluwawa Tower Gampola Kandy - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -185,8 +185,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-tea-factory-nuwara-eliya-sri-lanka-375x331.jpg"
-                                                alt="Tea Factory Nuwara Eliya - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-tea-factory-nuwara-eliya-sri-lanka-375x331.webp"
+                                            loading="lazy"  alt="Tea Factory Nuwara Eliya - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 5: Nuwara Eliya to Yala</h3>
@@ -226,8 +226,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-dondra-head-lighthouse-375x331.jpg"
-                                                alt="Dondra Head Lighthouse - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-dondra-head-lighthouse-375x331.webp"
+                                            loading="lazy"   alt="Dondra Head Lighthouse - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 6: Yala to South Beach Coast</h3>
@@ -279,8 +279,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-unawatuna-jungle-beach-375x331.jpg"
-                                                alt="Unawatuna Jungle Beach - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-unawatuna-jungle-beach-375x331.webp"
+                                            loading="lazy"  alt="Unawatuna Jungle Beach - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 7: Chillaxing on the beach</h3>
@@ -304,8 +304,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-red-mosque-375x331.jpg"
-                                                alt="Colombo Red Mosque - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-red-mosque-375x331.webp"
+                                            loading="lazy"  alt="Colombo Red Mosque - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 8: South Beach Coast to Airport</h3>

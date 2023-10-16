@@ -13,7 +13,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-damro-tea-estate-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-damro-tea-estate-1400x500.webp')">
         </div>
 
         <div class="page-heading">
@@ -48,8 +48,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-selfie-on-the-top-of-pidurangala-rock-375x331.jpg"
-                                                alt="Selfie On The Top Of Pidurangala Rock - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-selfie-on-the-top-of-pidurangala-rock-375x331.webp"
+                                            loading="lazy"  alt="Selfie On The Top Of Pidurangala Rock - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -80,8 +80,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-gal-potha-polonnaruwa-375x331.jpg"
-                                                alt="Gal Potha Polonnaruwa - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-gal-potha-polonnaruwa-375x331.webp"
+                                            loading="lazy"  alt="Gal Potha Polonnaruwa - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 2: Sigiriya to Polonnaruwa</h3>
@@ -112,8 +112,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sigiriya-rock-fortress-375x331.jpg"
-                                                alt="Sigiriya Rock Fortress - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-sigiriya-rock-fortress-375x331.webp"
+                                            loading="lazy"   alt="Sigiriya Rock Fortress - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 3: Sigiriya to Kandy</h3>
@@ -147,8 +147,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.jpg"
-                                                alt="Kandy Royal Botanical Garden  - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.webp"
+                                            loading="lazy" alt="Kandy Royal Botanical Garden  - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -181,8 +181,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-tea-factory-tea-plantation-375x331.jpg"
-                                                alt="Nuwara Eliya Tea Factory Tea Plantation - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-tea-factory-tea-plantation-375x331.webp"
+                                            loading="lazy"  alt="Nuwara Eliya Tea Factory Tea Plantation - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -217,8 +217,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-yala-national-park-375x331.jpg"
-                                                alt="Yala National Park - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-yala-national-park-375x331.webp"
+                                            loading="lazy" alt="Yala National Park - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 6: Ella to Yala</h3>
@@ -255,8 +255,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-mulkirigala-rock-temple-375x331.jpg"
-                                                alt="Mulkirigala Rock Temple - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-mulkirigala-rock-temple-375x331.webp"
+                                            loading="lazy"  alt="Mulkirigala Rock Temple - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 7: Yala to South Beach Coast</h3>
@@ -307,8 +307,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-gangaramaya-temple-375x331.jpg"
-                                                alt="Colombo Gangaramaya Temple - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-gangaramaya-temple-375x331.webp"
+                                            loading="lazy"  alt="Colombo Gangaramaya Temple - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">

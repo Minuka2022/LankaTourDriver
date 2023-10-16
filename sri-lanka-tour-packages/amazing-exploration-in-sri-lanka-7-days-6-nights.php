@@ -12,7 +12,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-bunch-of-elephants-minneriya-national-park-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-bunch-of-elephants-minneriya-national-park-1400x500.webp')">
         </div>
         <style>
             @media (max-width: 768px) {
@@ -55,8 +55,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-dambulla-cave-temple-375x331.jpg"
-                                                alt="Dambulla Cave Temple - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-dambulla-cave-temple-375x331.webp"
+                                            loading="lazy"  alt="Dambulla Cave Temple - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 1: Airport to Sigiriya</h3>
@@ -86,8 +86,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-inside-the-temple-of-the-tooth-kandy-375x331.jpg"
-                                                alt="Inside The Temple Of The Tooth Kandy - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-inside-the-temple-of-the-tooth-kandy-375x331.webp"
+                                            loading="lazy"  alt="Inside The Temple Of The Tooth Kandy - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -122,8 +122,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.jpg"
-                                                alt="Kandy Royal Botanical Garden  - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.webp"
+                                            loading="lazy"  alt="Kandy Royal Botanical Garden  - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -159,8 +159,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-post-office-375x331.jpg"
-                                                alt="Nuwara Eliya Post Office - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-post-office-375x331.webp"
+                                            loading="lazy"  alt="Nuwara Eliya Post Office - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 4: Nuwara Eliya to Yala</h3>
@@ -202,8 +202,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-hikkaduwa-beach-375x331.jpg"
-                                                alt="Hikkaduwa - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-hikkaduwa-beach-375x331.webp"
+                                            loading="lazy"  alt="Hikkaduwa - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 4: Yala to South Beach Coast</h3>
@@ -256,8 +256,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-unawatuna-the-palm-rope-swing-375x331.jpg"
-                                                alt="Unawatuna The Palm Rope Swing - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-unawatuna-the-palm-rope-swing-375x331.webp"
+                                            loading="lazy"  alt="Unawatuna The Palm Rope Swing - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -282,8 +282,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-madu-river-boat-safari-375x331.jpg"
-                                                alt="Madu River Boat Safari - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-madu-river-boat-safari-375x331.webp"
+                                            loading="lazy"   alt="Madu River Boat Safari - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 6: South Beach Coast to Airport</h3>

@@ -13,7 +13,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-safari-in-sri-lanka-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-safari-in-sri-lanka-1400x500.webp')">
         </div>
         <style>
             @media (max-width: 768px) {
@@ -60,8 +60,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pidurangala-sunset-375x331.jpg"
-                                                alt="Pidurangala Sunset - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-pidurangala-sunset-375x331.webp"
+                                            loading="lazy"  alt="Pidurangala Sunset - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 1: Airport to Sigiriya</h3>
@@ -89,8 +89,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nalanda-gedige-matale-375x331.jpg"
-                                                alt="Nalanda Gedige Matale - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nalanda-gedige-matale-375x331.webp"
+                                            loading="lazy"  alt="Nalanda Gedige Matale - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 2: Sigiriya to Kandy</h3>
@@ -123,8 +123,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.jpg"
-                                                alt="Kandy Royal Botanical Garden  - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.webp"
+                                            loading="lazy"  alt="Kandy Royal Botanical Garden  - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -157,8 +157,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kitulgala-white-water-rafting-375x331.jpg"
-                                                alt="Kitulgala White Water Rafting - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kitulgala-white-water-rafting-375x331.webp"
+                                            loading="lazy"  alt="Kitulgala White Water Rafting - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -197,8 +197,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-turtle-conservation-project-375x331.jpg"
-                                                alt="Turtle Conservation Project - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-turtle-conservation-project-375x331.webp"
+                                            loading="lazy"   alt="Turtle Conservation Project - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">

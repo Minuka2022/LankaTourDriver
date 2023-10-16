@@ -14,7 +14,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-monkeys-working-on-a-jackfurit-1400x500.')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-monkeys-working-on-a-jackfurit-1400x500.webp')">
         </div>
 
         <div class="page-heading">
@@ -54,7 +54,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-temple-of-the-tooth-kandy-375x331.jpg"
+                                            <img loading="lazy" src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-temple-of-the-tooth-kandy-375x331.webp"
                                                 alt="Temple Of The Tooth Kandy - Sri Lanka" class="itinerary-day-img">
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -88,7 +88,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kitulgala-white-water-rafting-375x331.jpg"
+                                            <img loading="lazy" src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kitulgala-white-water-rafting-375x331.webp"
                                                 alt="Kitulgala White Water Rafting - Sri Lanka"
                                                 class="itinerary-day-img">
                                         </div>
@@ -127,8 +127,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-national-museum-375x331.jpg"
-                                                alt="Colombo National Museum - Sri Lanka" class="itinerary-day-img">
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-national-museum-375x331.webp"
+                                            loading="lazy" alt="Colombo National Museum - Sri Lanka" class="itinerary-day-img">
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 3: Bentota to Airport Via Colombo</h3>

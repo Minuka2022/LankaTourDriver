@@ -13,7 +13,7 @@
 
     <section class="inner-page-header">
         <div class="inner-page-header-background"
-            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-unawatuna-beach-sri-lanka-1400x500.jpg')">
+            style="background-image: url('../assets/img/tour-packages/page-headers/lankatourdriver.com-unawatuna-beach-sri-lanka-1400x500.webp')">
         </div>
 
         <div class="page-heading">
@@ -49,8 +49,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-front-view-of-the-temple-of-the-tooth-kandy-375x331.jpg"
-                                                alt="Front View Of The Temple Of The Tooth Kandy - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-front-view-of-the-temple-of-the-tooth-kandy-375x331.webp"
+                                            loading="lazy"  alt="Front View Of The Temple Of The Tooth Kandy - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -83,8 +83,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.jpg"
-                                                alt="Kandy Royal Botanical Garden  - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-kandy-royal-botanical-garden-peradeniya-375x331.webp"
+                                            loading="lazy"   alt="Kandy Royal Botanical Garden  - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -117,8 +117,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-blue-train-375x331.jpg"
-                                                alt="Nuwara Eliya Blue Train - Sri Lanka" class="itinerary-day-img" />
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-nuwara-eliya-blue-train-375x331.webp"
+                                            loading="lazy"   alt="Nuwara Eliya Blue Train - Sri Lanka" class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
                                             <h3>Day 3: Nuwara Eliya to Yala</h3>
@@ -158,8 +158,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-tangalle-ridiyagama-safari-park-375x331.jpg"
-                                                alt="Tangalle Ridiyagama Safari Park - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-tangalle-ridiyagama-safari-park-375x331.webp"
+                                            loading="lazy"   alt="Tangalle Ridiyagama Safari Park - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -218,8 +218,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-unawatuna-the-palm-rope-swing-375x331.jpg"
-                                                alt="Unawatuna The Palm Rope Swing - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-unawatuna-the-palm-rope-swing-375x331.webp"
+                                            loading="lazy"   alt="Unawatuna The Palm Rope Swing - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
@@ -244,8 +244,8 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-gangaramaya-temple-375x331.jpg"
-                                                alt="Colombo Gangaramaya Temple - Sri Lanka"
+                                            <img src="../assets/img/tour-packages/itinerary-day-single/lankatourdriver.com-colombo-gangaramaya-temple-375x331.webp"
+                                            loading="lazy"    alt="Colombo Gangaramaya Temple - Sri Lanka"
                                                 class="itinerary-day-img" />
                                         </div>
                                         <div class="col-md-8 tour-itinerary-day-text">
