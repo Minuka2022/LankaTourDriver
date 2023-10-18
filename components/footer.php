@@ -314,5 +314,5 @@
 <!--End of Tawk.to Script-->
 
 
-<!-- <script defer src="https://lankatourdriver.com/assets/js/disableClick.js"></script> -->
+<script defer src="https://lankatourdriver.com/assets/js/disableClick.js"></script>
 <script async  src="https://lankatourdriver.com/assets/js/custom.js"></script>
