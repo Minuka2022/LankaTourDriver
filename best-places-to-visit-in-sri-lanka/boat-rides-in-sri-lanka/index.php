@@ -74,7 +74,7 @@
               May through October is the most incredible time of year to go on this boat safari. Simply put, the weather
               and sea conditions are ideal.
             </p>
-            <p>Visit our <a href="https://lankatourdriver.com/sri-lanka-price-list" target="_blank">Entrance
+            <p>Visit our <a href="https://lankatourdriver.com/cost-of-travel-in-sri-lanka.php" target="_blank">Entrance
                 Tickets
                 fees
                 page</a> for tickets prices.</p>

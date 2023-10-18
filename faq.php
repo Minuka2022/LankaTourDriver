@@ -132,7 +132,7 @@
                     <h3 class="clr-pm">What are the best things to do in Sri Lanka?</h3 class="clr-pm">
                     <p>Tour itineraries have been filled to near capacity with nearly every possible activity and
                         location. There are countless activities in Sri Lanka, and we list them all in our <a
-                            href="https://lankatourdriver.com/best-sri-lanka-tour-packages/" target="_blank"
+                            href="sri-lanka-tour-packages/" target="_blank"
                             class="page-link">Best
                             Tour Packages
                             in Sri Lanka 2023.</a>
@@ -161,7 +161,7 @@
                     <h3 class="clr-pm">How much does it cost to tour Sri Lanka?</h3 class="clr-pm">
                     <p>Although a trip to Sri Lanka is somewhat affordable, it is much ideal if you have a great deal of
                         cash on hand. We have provided a list of average costs for the services you require in Sri Lanka
-                        to make it simple. Go to <a href="sri-lanka-price-list.php" target="_blank"
+                        to make it simple. Go to <a href="cost-of-travel-in-sri-lanka.php" target="_blank"
                             class="page-link">Sri
                             Lanka Price List - 2023</a>
                     </p>
