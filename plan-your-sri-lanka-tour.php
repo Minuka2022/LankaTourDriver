@@ -59,6 +59,30 @@
         </div>
     </section>
 
+    <script>
+    // Function to set the form fields based on data from local storage
+    function autoFillFormFields() {
+        // Retrieve the stored values from local storage
+        var travelMethod = localStorage.getItem('travelMethod_submit'); // Unique ID for this page
+        var accommodationType = localStorage.getItem('accommodationType_submit'); // Unique ID for this page
+        var planningProgress = localStorage.getItem('planningProgress_submit'); // Unique ID for this page
+
+        // Check if values exist and pre-fill the form fields
+        if (travelMethod !== null) {
+            document.getElementById('travel-method').value = travelMethod;
+        }
+        if (accommodationType !== null) {
+            document.getElementById('accommodation-type').value = accommodationType;
+        }
+        if (planningProgress !== null) {
+            document.getElementById('planning-progress').value = planningProgress;
+        }
+    }
+
+    // Call the autoFillFormFields function when the page loads
+    window.addEventListener('load', autoFillFormFields);
+</script>
+
     <section class="" style="padding-bottom:10px;padding-top:20px;">
         <div class="container">
             <div class="row">
@@ -67,6 +91,54 @@
                         <form autocomplete="off" action="contactform/tailormade.php" method="POST">
                             <div class="card">
                                 <div class="card-body">
+
+
+
+
+                                <div class="form-group">
+                        <label for="travel-method" ><p class="ltd-form-title"> How do you want to travel?</p></label> 
+                        <select class="form-control" id="travel-method" name="travel-method">
+                            <option value="select">select</option>
+                            <option value="Alone">Alone</option>
+                            <option value="As a pair">As a pair</option>
+                            <option value="With the family">With the family</option>
+                            <option value="With friends">With friends</option>
+                        </select>
+                     </div>
+                     <br>
+                     
+                    <div class="form-group">
+                        <label for="accommodation-type"><p class="ltd-form-title">What type of accommodation do you want?</p></label>
+                        <select class="form-control" id="accommodation-type" name="accommodation-type">
+                            <option value="select">select</option>
+                                <option value="Budget (2 stars)">Budget (2 stars)</option>
+                                <option value="Standard (3 stars - most booked)">Standard (3 stars - most booked)</option>
+                                <option value="Comfort (4 stars)">Comfort (4 stars)</option>
+                                <option value="Luxury (5+ stars)">Luxury (5+ stars)</option>
+
+                        </select>
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        <label for="planning-progress"><p class="ltd-form-title">How far along are you with your travel planning?</p></label>
+                        <select class="form-control" id="planning-progress" name="planning-progress">
+                           <option value="select">select</option>
+                            <option value="A NEO travel specialist should advise me">A NEO travel specialist should advise me</option>
+                            <option value="I already know roughly what I want">I already know roughly what I want</option>
+                            <option value="I will book directly if your offer is right">I will book directly if your offer is right</option>
+
+                        </select>
+                    </div>
+
+
+
+
+                    <br>
+
+
+
+
+
                                     <div class="form-section">
                                         <p class="ltd-form-title">I need a guide who speaks :</p>
                                         <div class="select-group select-group__center-text">

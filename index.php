@@ -82,6 +82,86 @@ include_once 'components/header.php';
     </div>
   </section>
 
+
+
+
+<section class="home-section" style="background-color: #ebf1fa;   height: auto; 
+        padding: 40px; margin:auto;" >
+    <div class="container">
+      <div class="row">
+        
+        <div class="col-md-5">
+        <h2 class=" clr-pm" style="font-size:45px; margin-top:80px; ">Plan your trip from here</h2>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="col-md-6">
+        <div style="padding: 25px; border: 2px solid white; border-radius: 10px; background-color: white; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+                    <div class="form-group">
+                        <label for="travel-method">How do you want to travel?</label>
+                        
+                       
+                       
+                        <select class="form-control" id="travel-method" name="travel-method">
+                            <option value="select">select</option>
+                            <option value="Alone">Alone</option>
+                            <option value="As a pair">As a pair</option>
+                            <option value="With the family">With the family</option>
+                            <option value="With friends">With friends</option>
+
+                        </select>
+                     </div>
+                     <br>
+                     
+                    <div class="form-group">
+                        <label for="accommodation-type">What type of accommodation do you want?</label>
+                        <select class="form-control" id="accommodation-type" name="accommodation-type">
+                            <option value="select">select</option>
+                                <option value="Budget (2 stars)">Budget (2 stars)</option>
+                                <option value="Standard (3 stars - most booked)">Standard (3 stars - most booked)</option>
+                                <option value="Comfort (4 stars)">Comfort (4 stars)</option>
+                                <option value="Luxury (5+ stars)">Luxury (5+ stars)</option>
+
+                        </select>
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        <label for="planning-progress">How far along are you with your travel planning?</label>
+                        <select class="form-control" id="planning-progress" name="planning-progress">
+                           <option value="select">select</option>
+                            <option value="A NEO travel specialist should advise me">A NEO travel specialist should advise me</option>
+                            <option value="I already know roughly what I want">I already know roughly what I want</option>
+                            <option value="I will book directly if your offer is right">I will book directly if your offer is right</option>
+
+                        </select>
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        <a href="plan-your-sri-lanka-tour.php" id="plan-trip-button" class="btn btn-success fw-bold">einreichen</a>
+                    </div>
+                </div>
+        </div>
+      </div>
+    </div>
+  </section>
+                <script>
+                          document.getElementById('plan-trip-button').addEventListener('click', function () {
+                              // Get the selected values
+                              var travelMethod = document.getElementById('travel-method').value;
+                              var accommodationType = document.getElementById('accommodation-type').value;
+                              var planningProgress = document.getElementById('planning-progress').value;
+                      
+                              // Store the selected values in local storage
+                              localStorage.setItem('travelMethod_submit', travelMethod); // Unique ID for this page
+                              localStorage.setItem('accommodationType_submit', accommodationType); // Unique ID for this page
+                              localStorage.setItem('planningProgress_submit', planningProgress); // Unique ID for this page
+                          });
+                      </script>
+
+<br>
+
+
   <section class="home-section">
     <div class="container">
       <div class="row">
