@@ -243,10 +243,10 @@
                                         <input type="number" min="0" max="100" name="children" class="form-control"
                                             required /><br>
                                         <small>Start Date :</small>
-                                        <input type="text" name="start" class="form-control datepicker"
+                                        <input type="date" name="start" class="form-control datepicker"
                                             placeholder="dd/mm/yyyy" />
                                         <small>End Date :</small>
-                                        <input type="text" name="end" class="form-control datepicker"
+                                        <input type="date" name="end" class="form-control datepicker"
                                             placeholder="dd/mm/yyyy" />
                                         <small>Flight Number :</small>
                                         <input type="text" name="flight" class="form-control" />
