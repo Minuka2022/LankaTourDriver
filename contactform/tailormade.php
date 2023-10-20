@@ -22,42 +22,33 @@ if (isset($_POST['submit'])) {
 
 
     if (!empty($_POST['travel-method'])) {
-        // $travel-method = $_POST["travel-method"];
-        foreach ($_POST['travel-method'] as $value) {
-            // echo $value . '<br>';
-            $message = $message . $value . '<br>';
-
-        }
-
+        $travel = $_POST["travel-method"];
+        // echo $otherLang;
+        $message = $message . $travel . '<br>';
     }
 
 
     $message = $message . '<p><b>What type of accommodation do you want?:</b></p>';
 
 
+
     if (!empty($_POST['accommodation-type'])) {
-        // $accommodation-type = $_POST["accommodation-type"];
-        foreach ($_POST['accommodation-type'] as $value) {
-            // echo $value . '<br>';
-            $message = $message . $value . '<br>';
-
-        }
-
+        $accommodation1 = $_POST["accommodation-type"];
+        // echo $otherLang;
+        $message = $message . $accommodation1 . '<br>';
     }
+
 
 
     $message = $message . '<p><b>How far along are you with your travel planning?:</b></p>';
 
 
     if (!empty($_POST['planning-progress'])) {
-        // $planning-progress = $_POST["planning-progress"];
-        foreach ($_POST['planning-progress'] as $value) {
-            // echo $value . '<br>';
-            $message = $message . $value . '<br>';
-
-        }
-
+        $planning = $_POST["planning-progress"];
+        // echo $otherLang;
+        $message = $message . $planning . '<br>';
     }
+
 
 
 
