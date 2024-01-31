@@ -166,6 +166,10 @@ a:focus {
   font-weight: 300;
 }
 
+.myform{
+  padding: 25px; border: 2px solid white; border-radius: 10px; background-color: white; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
 .navbar-custom.top-nav-collapse ul.nav li a {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -1235,6 +1239,18 @@ Parallax
   .boxed-grey {
     margin-bottom: 30px;
   }
+  .myform {
+    padding: 25px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    width: 350px; /* Set your desired width */
+    margin-left:-43px;
+    /* Adjust the left margin as needed */
+  }
+  
+  
 }
 
 @media (max-width: 480px) {
@@ -1249,6 +1265,7 @@ Parallax
   .tp-banner-container {
     padding-top: 40px;
   }
+
 
   .page-scroll a.btn-circle {
     width: 40px;

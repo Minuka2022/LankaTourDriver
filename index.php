@@ -8,6 +8,7 @@ include_once 'components/header.php';
 <title>Best Tour Operators In Sri Lanka | Sri Lanka Private Guide | Lanka Tour Driver</title>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<link href="assets/css/style.css" rel="stylesheet"rel="preconnect" />
 
 </head>
 
@@ -99,7 +100,7 @@ include_once 'components/header.php';
         <br>
         <br>
         <div class="col-md-6">
-        <div style="padding: 25px; border: 2px solid white; border-radius: 10px; background-color: white; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+        <div class="myform">
                     <div class="form-group">
                         <label for="travel-method">How do you want to travel?</label>
                         
