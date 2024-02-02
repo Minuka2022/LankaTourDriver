@@ -123,7 +123,7 @@
                                         <label for="planning-progress"><p class="ltd-form-title">How far along are you with your travel planning?</p></label>
                                         <select class="form-control" id="planning-progress" name="planning-progress">
                                         <option value="select">select</option>
-                                            <option value="A NEO travel specialist should advise me">A NEO travel specialist should advise me</option>
+                                            <option value="A Lanaka Tour Driver travel specialist should advise me">A Lanaka Tour Driver travel specialist should advise me</option>
                                             <option value="I already know roughly what I want">I already know roughly what I want</option>
                                             <option value="I will book directly if your offer is right">I will book directly if your offer is right</option>
 

@@ -38,7 +38,7 @@ include_once 'components/header.php';
     </div>
   </section>
 
-  <section class="home-section">
+  <section class="#home-section">
     <div class="trip-advisor">
 
 
@@ -83,6 +83,7 @@ include_once 'components/header.php';
         </div>
       </div>
     </div>
+  <br>
   </section>
 
 
@@ -133,7 +134,7 @@ include_once 'components/header.php';
                         <label for="planning-progress">How far along are you with your travel planning?</label>
                         <select class="form-control" id="planning-progress" name="planning-progress">
                            <option value="select">select</option>
-                            <option value="A NEO travel specialist should advise me">A NEO travel specialist should advise me</option>
+                            <option value="A Lanaka Tour Driver travel specialist should advise me">A Lanaka Tour Driver travel specialist should advise me</option>
                             <option value="I already know roughly what I want">I already know roughly what I want</option>
                             <option value="I will book directly if your offer is right">I will book directly if your offer is right</option>
 
