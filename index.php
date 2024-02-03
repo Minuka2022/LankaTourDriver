@@ -13,7 +13,7 @@ include_once 'components/header.php';
 </head>
 
 
-<body id="top" data-target=".navbar-custom">
+<body id="top" data-target=".navbar-custom"  > 
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMZWHLJ" height="0" width="0"
       style="display: none; visibility: hidden"></iframe></noscript>
@@ -142,7 +142,7 @@ include_once 'components/header.php';
                     </div>
                     <br>
                     <div class="form-group">
-                        <a href="plan-your-sri-lanka-tour.php" id="plan-trip-button" class="btn btn-success fw-bold">einreichen</a>
+                        <a href="plan-your-sri-lanka-tour.php" id="plan-trip-button" class="btn btn-success fw-bold">submit</a>
                     </div>
                 </div>
         </div>
@@ -574,7 +574,8 @@ include_once 'components/header.php';
       </div>
     </div>
   </section>
-<div class="container p-1">
+<div class="container p-1" style=" padding: 4dvh;">
+
     <div class="row">
         <h1 class="clr-pm">Discover Sri Lanka with a Private Tour Guide</h1>
         <p>We understand the allure of Sri Lanka's rich heritage and picturesque beauty—and there's no better way to uncover the island's secrets than with a <b>private tour guide in Sri Lanka</b>. Whether you’re trekking through the lush greenery of the hill country or basking in the golden sands of its serene beaches, our <b>guided tours in Sri Lanka Sri Lanka </b> round tours are fashioned to offer you a deeply personal and enriched travel experience. Through the eyes of a <b>Sri Lanka tourist guide </b>, the essence of the island unfolds in a tapestry of ancient history, cultural nuances, and natural splendors.</p>
@@ -674,6 +675,7 @@ include_once 'components/header.php';
         </div>
         <a href="#collapse" class="btn btn-success nav-toggle">Read More</a>
     </div>
+  
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
