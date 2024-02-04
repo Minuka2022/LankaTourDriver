@@ -1,7 +1,7 @@
 <?php include_once 'components/header.php'; ?>
 
 
-<title>Sri Lanka Fees and Charges 2023 | Lanka Tour Driver</title>
+<title>Sri Lanka Fees and Charges <script> document.write(new Date().getFullYear());</script> | Lanka Tour Driver</title>
 <meta name="description"
   content="Stay up-to-date with the cost of travelling in Sri Lanka for travelers with our regularly updated price list. Find out the prices of everyday services in one convenient place.">
 <!-- Data Tables -->

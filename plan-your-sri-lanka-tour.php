@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="inne-page-title">Customizable Sri Lanka Tour Packages 2023
+                        <h1 class="inne-page-title">Customizable Sri Lanka Tour Packages <script> document.write(new Date().getFullYear());</script>
                         </h1>
                         <p class="inner-page-sub-title">Don't settle for a cookie-cutter tour of Sri Lanka</p>
                     </div>

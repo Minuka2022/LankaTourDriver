@@ -1,6 +1,6 @@
 <?php include_once 'components/header.php'; ?>
 
-<title>Sri Lanka Airport Taxi Rates 2023 | Lanka Tour Driver</title>
+<title>Sri Lanka Airport Taxi Rates <script> document.write(new Date().getFullYear());</script> | Lanka Tour Driver</title>
 <meta name="description"
     content="Planning a trip to Sri Lanka? Check out our airport taxi rates to help you budget for your transportation needs.">
 </head>
@@ -27,7 +27,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="inne-page-title">Sri Lanka Airport Taxi and transfer Rates 2023</h1>
+                        <h1 class="inne-page-title">Sri Lanka Airport Taxi and transfer Rates <script> document.write(new Date().getFullYear());</script></h1>
                         <p class="inner-page-sub-title">Enjoy the best transfer rates in Sri Lanka with Lanka Tour
                             Driver!</p>
                     </div>

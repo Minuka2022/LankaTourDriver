@@ -161,6 +161,8 @@ include_once 'components/header.php';
                               localStorage.setItem('accommodationType_submit', accommodationType); // Unique ID for this page
                               localStorage.setItem('planningProgress_submit', planningProgress); // Unique ID for this page
                           });
+
+    
                       </script>
 
 <br>
@@ -170,11 +172,11 @@ include_once 'components/header.php';
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="clr-pm">Best Sri Lanka Tours & Trips 2023</h2>
+          <h2  class="clr-pm">Best Sri Lanka Tours & Trips <script> document.write(new Date().getFullYear());</script></h2>
           <p>Lanka Tour Driver is an expert of inbound tourism industry in Sri Lanka and having been in business for
             more
             than a decade, .
-            We provide the best Sri Lanka round trips vacation packages in 2023, including Honeymoon Tours, Nature,
+            We provide the best Sri Lanka round trips vacation packages in <script> document.write(new Date().getFullYear());</script>, including Honeymoon Tours, Nature,
             Wildlife and Safari Tours in Sri Lanka, Cultural & Heritage Tours, and more. In addition to tour packages,
             Lanka Tour Driver also offers comprehensive consultation to choose hotel or inn accommodations within your
             budget.</p>
@@ -354,8 +356,8 @@ include_once 'components/header.php';
             will assist you
             with all of your travel needs as a tour executive. We are proud to say that Lanka Tour Driver has the
             best registered tourist drivers for guided trips in Sri Lanka. Our goal is to take you safely and
-            comfortably to the most stunning locations in Sri Lanka in 2023.</p>
-          <p>For your Best Sri Lanka Tours & Holidays in 2023, we have a selection of cheap and affordable holiday
+            comfortably to the most stunning locations in Sri Lanka in <script> document.write(new Date().getFullYear());</script>.</p>
+          <p>For your Best Sri Lanka Tours & Holidays in <script> document.write(new Date().getFullYear());</script>, we have a selection of cheap and affordable holiday
             packages.</p>
         </div>
       </div>

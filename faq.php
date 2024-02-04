@@ -135,7 +135,7 @@
                             href="sri-lanka-tour-packages/" target="_blank"
                             class="page-link">Best
                             Tour Packages
-                            in Sri Lanka 2023.</a>
+                            in Sri Lanka <script> document.write(new Date().getFullYear());</script>.</a>
                     </p>
 
                 </div>
@@ -163,7 +163,7 @@
                         cash on hand. We have provided a list of average costs for the services you require in Sri Lanka
                         to make it simple. Go to <a href="cost-of-travel-in-sri-lanka.php" target="_blank"
                             class="page-link">Sri
-                            Lanka Price List - 2023</a>
+                            Lanka Price List - <script> document.write(new Date().getFullYear());</script></a>
                     </p>
 
 

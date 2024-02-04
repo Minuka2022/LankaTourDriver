@@ -255,7 +255,7 @@
     <div class="row">
       <div class="col-md-12">
         <p class="footer-copyright-text">
-          <span style="display:block">©2023 Lanka Tour Driver. | All rights reserved.</span>
+          <span style="display:block">©<script> document.write(new Date().getFullYear());</script> Lanka Tour Driver. | All rights reserved.</span>
         </p>
       </div>
     </div>
