@@ -99,6 +99,11 @@ p {
   color: #074a5c;
 }
 
+.clr-pm1 {
+ 
+  margin-top:100px;
+}
+
 .clr-dark {
   color: #333;
 }
@@ -1239,6 +1244,10 @@ Parallax
 
   .boxed-grey {
     margin-bottom: 30px;
+  }
+  .clr-pm1 {
+    color: #074a5c;
+    font-size:45px; margin-top:80px;
   }
   .myform {
     padding: 25px;

@@ -87,15 +87,13 @@ include_once 'components/header.php';
   </section>
 
 
-
-
 <section class="home-section" style="background-color: #ebf1fa;   height: auto; 
-        padding: 40px; margin:auto;" >
+        padding-bottom: 40px;  margin:auto;" >
     <div class="container">
       <div class="row">
         
         <div class="col-md-5">
-        <h2 class=" clr-pm" style="font-size:45px; margin-top:80px; ">Plan your trip from here</h2>
+        <h2 class=" clr-pm clr-pm1" style="font-size:45px; margin-top:70px; ">Plan your trip from here</h2>
         </div>
         <br>
         <br>
