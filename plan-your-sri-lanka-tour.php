@@ -242,12 +242,10 @@
 
                                         <input type="number" min="0" max="100" name="children" class="form-control"
                                             required /><br>
-                                        <small>Start Date :</small>
-                                        <input type="date" name="start" class="form-control datepicker"
-                                            placeholder="dd/mm/yyyy" />
+                                            <small>Start Date :</small>
+                                        <input type="date" name="start" id="startDate" class="form-control" placeholder="dd/mm/yyyy" />
                                         <small>End Date :</small>
-                                        <input type="date" name="end" class="form-control datepicker"
-                                            placeholder="dd/mm/yyyy" />
+                                        <input type="date" name="end" id="endDate" class="form-control" placeholder="dd/mm/yyyy" disabled  />
                                         <small>Flight Number :</small>
                                         <input type="text" name="flight" class="form-control" />
                                         <br>
@@ -260,6 +258,40 @@
                                 </div>
                             </div>
                             <br>
+                            <script>
+                                                // Get the current date
+                                                var currentDate = new Date();
+                                                
+                                                // Convert the current date to the format "YYYY-MM-DD" for the min attribute
+                                                var currentDateString = currentDate.toISOString().split('T')[0];
+                                                
+                                                // Set the min attribute for both date inputs to the current date
+                                                document.getElementById("startDate").setAttribute("min", currentDateString);
+                                                document.getElementById("endDate").setAttribute("min", currentDateString);
+                                                </script>
+                                                                                                                                    
+                                                                                  <script>
+                                        // Get the elements for Start Date and End Date
+                                        var startDate = document.getElementById("startDate");
+                                        var endDate = document.getElementById("endDate");
+                                        
+                                        // Add an onchange event handler to the Start Date input
+                                        startDate.addEventListener("change", function() {
+                                            // Get the selected Start Date
+                                            var selectedStartDate = new Date(startDate.value);
+                                        
+                                            // Set the min attribute for the End Date input to the selected Start Date
+                                            endDate.setAttribute("min", startDate.value);
+                                        
+                                            // Enable the End Date input
+                                            endDate.removeAttribute("disabled");
+                                        
+                                            // If the current value of End Date is before the selected Start Date, clear the input
+                                            if (new Date(endDate.value) < selectedStartDate) {
+                                                endDate.value = startDate.value;
+                                            }
+                                        });
+                                        </script>
                             <button class="btn btn-block btn-success theme-btn"
                                 style="border-radius: 0; height: 48px; margin-top: 10px" type="submit" name="submit">
                                 Get Your Sri Lanka Tour Plan
