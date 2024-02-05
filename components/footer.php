@@ -42,10 +42,21 @@
               </li>
               <li><a href="https://lankatourdriver.com/faq">FAQ</a>
               </li>
+              
+              <li><a href="https://www.lankatours.at/">Lankatours.at</a>
+              </li>
+              
+              <li><a href="https://safaribookingsrilanka.com/">safaribookingsrilanka.com</a>
+              </li>
+              <li><a href="https://taxibookingsrilanka.com/">taxibookingsrilanka.com</a>
+              </li>
+              
               <li><a href="/sitemap.xml" target="_blank">Sitemap</a>
               </li>
             </ul>
           </div>
+          
+          
         </div>
         <div class="footer-content-column col-2">
 
