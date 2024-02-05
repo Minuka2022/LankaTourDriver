@@ -266,9 +266,9 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="footer-bottom-text">
-          <a href="http://luminousware.com/" target="_blank" style="color:#fff !important">Designed & Developed by
-            Luminousware</a>
+        <div class="footer-bottom-text display:none;">
+           <a href="https://idearigs.com/" target="_blank" style="color:#fff !important ">
+       </a> 
         </div>
 
       </div>

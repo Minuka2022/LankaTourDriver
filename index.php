@@ -93,7 +93,7 @@ include_once 'components/header.php';
       <div class="row">
         
         <div class="col-md-5">
-        <h2 class=" clr-pm clr-pm1" style="font-size:45px; margin-top:70px; ">Plan your trip from here</h2>
+        <h2 class=" clr-pm clr-pm1 text-center" style="font-size:45px; margin-top:60px; ">Plan your trip </h2>
         </div>
         <br>
         <br>
