@@ -52,7 +52,7 @@
                     <p>
 
                         We're dedicated to learning what makes a wonderful vacation for you on this beautiful island,
-                        from the types of activities you enjoy to the types of accommodations you seek to the distances
+                        from the types of activities<span class="hidden-text" id="scrollToForm"> you enjoy to the types of accommodations you seek to the distances
                         you're willing to go in search of them.</p>
                 </div>
             </div>
@@ -291,6 +291,32 @@
                                                 endDate.value = startDate.value;
                                             }
                                         });
+
+
+                                               // Function to remove the 'scrollToForm' parameter from the URL
+                            function removeURLParameter(param) {
+                              const url = window.location.href;
+                              const updatedURL = url.replace(new RegExp('[?&]' + param + '=[^&]*'), '');
+                              history.replaceState(null, '', updatedURL);
+                            }
+                          
+                            // Wait for the document to fully load
+                            window.addEventListener('load', function () {
+                              // Check if the 'scrollToForm' URL parameter is present
+                              if (window.location.search.includes('scrollToForm=true')) {
+                                // Remove the 'scrollToForm' parameter from the URL
+                                removeURLParameter('scrollToForm');
+                          
+                                // Get a reference to the form element by its ID
+                                var form = document.getElementById('scrollToForm');
+                                
+                                // Check if the form element exists
+                                if (form) {
+                                  // Use the `scrollIntoView` method to scroll to the form
+                                  form.scrollIntoView({ behavior: 'smooth' });
+                                }
+                              }
+                            });
                                         </script>
                             <button class="btn btn-block btn-success theme-btn"
                                 style="border-radius: 0; height: 48px; margin-top: 10px" type="submit" name="submit">

@@ -140,7 +140,7 @@ include_once 'components/header.php';
                     </div>
                     <br>
                     <div class="form-group">
-                        <a href="plan-your-sri-lanka-tour.php" id="plan-trip-button" class="btn btn-success fw-bold">submit</a>
+                        <a href="plan-your-sri-lanka-tour.php?scrollToForm=true" id="plan-trip-button" class="btn btn-success fw-bold">submit</a>
                     </div>
                 </div>
         </div>
