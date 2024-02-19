@@ -19,7 +19,7 @@
                             as
                             possible.</p>
                         <div class="button-group">
-                            <a href="best-sri-lanka-tour-packages" class="btn btn-bg btn-bg-clr-1">Explore
+                            <a href="sri-lanka-tour-packages" class="btn btn-bg btn-bg-clr-1">Explore
                                 Tour Packages</a>
                             <a href="/" class="btn btn-bg" style="background-color: #027b9a; color: #fff !important;">Go
                                 to Homepage</a>

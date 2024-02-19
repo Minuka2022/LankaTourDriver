@@ -94,6 +94,7 @@
 
       </header>
 
+
       <div class="col-md-12 text-center" style="margin: 20px 0">
         <ul class="nav nav-pills center-pills">
           <li id="vehPrice" class="nav-item active">
@@ -819,9 +820,12 @@
     <?php include_once 'components/footer.php' ?>
 
 
-    <!-- Data Tables -->
-    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
+<!-- jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Data Tables -->
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
     <!-- Custom Theme JavaScript -->
     <script type="text/javascript">
       $(document).ready(function () {
