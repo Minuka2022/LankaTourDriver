@@ -185,8 +185,12 @@
             here and cared after until they are healthy enough to be released back into the wild. You are welcome to
             visit the centre during the feeding hours of 10.30 am, 2.30 pm, and 6.30 pm.</p>
           <img class="attraction-img_within"
-            src="../../assets/img/discover-sri-lanka/destinations/sri-lanka-wildlife-udawalawe-elephant-orphanage-375x331.jpg"
-            alt="Udawala Elephant Orphanage - Sri Lanka" class="itinerary-day-img" />
+            src="assets\img\lankatourdriver.com-falg-germany.png"
+            alt="Pinnawala Elephant Orphanage - Sri Lanka" class="itinerary-day-img" />
+             
+
+
+            
           <p>See how the folks caring for the baby elephants handle and feed these sweet creatures.
 
             You could watch this forever and never get tired of it.
